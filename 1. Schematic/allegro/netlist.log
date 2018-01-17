@@ -1,0 +1,340 @@
+{ Using PSTWRITER 17.0.0 d001Jan-16-2018 at 17:02:39 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J7.13" ignored for J7: HI3535DMEB, 14. HDMI (12.54, 3.17). Connecting pin to net "N4024172".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U20.8" ignored for U20: HI3535DMEB, 22. UART & Debug (1.90, 1.00). Connecting pin to net "RS232_RX_IOM".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "MPCIE_A_1.1" ignored for MPCIE_A_1: HI3535DMEB, 23. Wireless (3.75, 8.00). Connecting pin to net "GPIO1_5".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U20.10" ignored for U20: HI3535DMEB, 22. UART & Debug (1.90, 1.00). Connecting pin to net "UART2_TXD".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U11.3" ignored for U11: HI3535DMEB, 12. USB & SATA (14.70, 6.80). Connecting pin to net "HUB_DP2".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U11.2" ignored for U11: HI3535DMEB, 12. USB & SATA (14.70, 6.80). Connecting pin to net "HUB_DM2".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U22.6" ignored for U22: HI3535DMEB, 23. Wireless (14.60, 5.40). Connecting pin to net "N3999271".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "SIM1.5" ignored for SIM1: HI3535DMEB, 23. Wireless (4.20, 11.55). Connecting pin to net "N4000723".
+#9 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C97: HI3535DMEB, 07. DDR3_A (12.52, 0.70).
+#10 WARNING(ORCAP-36006): Part Name "C_SC0402_100NF_(T:SC0402;B:SC0402,SC0402-BGA,SC0402-BGA-A)" is renamed to "C_SC0402_100NF_(T:SC0402;B:SC04".
+#11 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C96: HI3535DMEB, 07. DDR3_A (14.54, 0.70).
+#12 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C99: HI3535DMEB, 07. DDR3_A (12.52, 1.45).
+#13 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C95: HI3535DMEB, 07. DDR3_A (14.54, 1.45).
+#14 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C102: HI3535DMEB, 07. DDR3_A (12.06, 5.79).
+#15 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C103: HI3535DMEB, 07. DDR3_A (12.31, 5.79).
+#16 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C104: HI3535DMEB, 07. DDR3_A (12.56, 5.79).
+#17 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C105: HI3535DMEB, 07. DDR3_A (12.81, 5.79).
+#18 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C106: HI3535DMEB, 07. DDR3_A (13.06, 5.79).
+#19 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C107: HI3535DMEB, 07. DDR3_A (13.31, 5.79).
+#20 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C108: HI3535DMEB, 07. DDR3_A (13.56, 5.79).
+#21 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C109: HI3535DMEB, 07. DDR3_A (13.86, 5.79).
+#22 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C87: HI3535DMEB, 07. DDR3_A (14.11, 5.79).
+#23 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C88: HI3535DMEB, 07. DDR3_A (11.76, 7.84).
+#24 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C89: HI3535DMEB, 07. DDR3_A (12.01, 7.84).
+#25 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C90: HI3535DMEB, 07. DDR3_A (12.26, 7.84).
+#26 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C91: HI3535DMEB, 07. DDR3_A (12.51, 7.84).
+#27 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C92: HI3535DMEB, 07. DDR3_A (12.76, 7.84).
+#28 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C93: HI3535DMEB, 07. DDR3_A (13.01, 7.84).
+#29 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C94: HI3535DMEB, 07. DDR3_A (13.26, 7.84).
+#30 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C101: HI3535DMEB, 07. DDR3_A (13.51, 7.84).
+#31 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C100: HI3535DMEB, 07. DDR3_A (13.76, 7.84).
+#32 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C127: HI3535DMEB, 08. DDR3_B (15.89, 1.28).
+#33 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C128: HI3535DMEB, 08. DDR3_B (13.75, 1.30).
+#34 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C126: HI3535DMEB, 08. DDR3_B (15.89, 2.03).
+#35 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C129: HI3535DMEB, 08. DDR3_B (13.75, 2.05).
+#36 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C110: HI3535DMEB, 08. DDR3_B (13.14, 6.58).
+#37 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C111: HI3535DMEB, 08. DDR3_B (13.39, 6.58).
+#38 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C112: HI3535DMEB, 08. DDR3_B (13.64, 6.58).
+#39 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C113: HI3535DMEB, 08. DDR3_B (13.89, 6.58).
+#40 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C114: HI3535DMEB, 08. DDR3_B (14.14, 6.58).
+#41 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C115: HI3535DMEB, 08. DDR3_B (14.39, 6.58).
+#42 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C116: HI3535DMEB, 08. DDR3_B (14.64, 6.58).
+#43 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C117: HI3535DMEB, 08. DDR3_B (14.94, 6.58).
+#44 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C118: HI3535DMEB, 08. DDR3_B (15.19, 6.58).
+#45 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C119: HI3535DMEB, 08. DDR3_B (12.84, 8.63).
+#46 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C120: HI3535DMEB, 08. DDR3_B (13.09, 8.63).
+#47 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C121: HI3535DMEB, 08. DDR3_B (13.34, 8.63).
+#48 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C122: HI3535DMEB, 08. DDR3_B (13.59, 8.63).
+#49 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C123: HI3535DMEB, 08. DDR3_B (13.84, 8.63).
+#50 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C124: HI3535DMEB, 08. DDR3_B (14.09, 8.63).
+#51 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C125: HI3535DMEB, 08. DDR3_B (14.34, 8.63).
+#52 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C131: HI3535DMEB, 08. DDR3_B (14.59, 8.63).
+#53 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C130: HI3535DMEB, 08. DDR3_B (14.84, 8.63).
+#54 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C150: HI3535DMEB, 12. USB & SATA (16.51, 1.74).
+#55 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C149: HI3535DMEB, 12. USB & SATA (16.51, 1.84).
+#56 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C153: HI3535DMEB, 12. USB & SATA (16.51, 2.04).
+#57 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C148: HI3535DMEB, 12. USB & SATA (16.51, 2.14).
+#58 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C145: HI3535DMEB, 12. USB & SATA (7.80, 5.80).
+#59 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C144: HI3535DMEB, 12. USB & SATA (7.80, 5.90).
+#60 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C432: HI3535DMEB, 13. Display (3.28, 4.64).
+#61 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C430: HI3535DMEB, 13. Display (3.38, 5.63).
+#62 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2896: HI3535DMEB, 14. HDMI (5.90, 3.70).
+#63 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C205: HI3535DMEB, 18. Power (6.40, 1.50).
+#64 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C20: HI3535DMEB, 18. Power (2.95, 2.30).
+#65 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C227: HI3535DMEB, 18. Power (3.25, 2.30).
+#66 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C74: HI3535DMEB, 18. Power (3.55, 2.30).
+#67 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C158: HI3535DMEB, 18. Power (8.50, 2.50).
+#68 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C156: HI3535DMEB, 18. Power (8.70, 2.50).
+#69 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C72: HI3535DMEB, 18. Power (8.90, 2.50).
+#70 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C242: HI3535DMEB, 18. Power (9.10, 2.50).
+#71 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C157: HI3535DMEB, 18. Power (10.10, 2.50).
+#72 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C73: HI3535DMEB, 18. Power (10.40, 2.50).
+#73 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C197: HI3535DMEB, 18. Power (10.70, 2.50).
+#74 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C243: HI3535DMEB, 18. Power (11.00, 2.50).
+#75 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C70: HI3535DMEB, 18. Power (4.35, 2.70).
+#76 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C75: HI3535DMEB, 18. Power (4.85, 2.70).
+#77 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C92: HI3535DMEB, 18. Power (6.20, 3.30).
+#78 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2924: HI3535DMEB, 18. Power (7.70, 3.50).
+#79 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C89: HI3535DMEB, 18. Power (10.20, 4.30).
+#80 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C204: HI3535DMEB, 18. Power (6.60, 5.50).
+#81 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C148: HI3535DMEB, 18. Power (3.00, 6.30).
+#82 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C225: HI3535DMEB, 18. Power (3.30, 6.30).
+#83 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C67: HI3535DMEB, 18. Power (3.60, 6.30).
+#84 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C153: HI3535DMEB, 18. Power (8.55, 6.50).
+#85 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C155: HI3535DMEB, 18. Power (8.75, 6.50).
+#86 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C69: HI3535DMEB, 18. Power (8.95, 6.50).
+#87 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C244: HI3535DMEB, 18. Power (9.15, 6.50).
+#88 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C154: HI3535DMEB, 18. Power (10.25, 6.50).
+#89 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C68: HI3535DMEB, 18. Power (10.55, 6.50).
+#90 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C195: HI3535DMEB, 18. Power (10.75, 6.50).
+#91 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C245: HI3535DMEB, 18. Power (11.05, 6.50).
+#92 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C8: HI3535DMEB, 18. Power (4.40, 6.70).
+#93 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C66: HI3535DMEB, 18. Power (4.90, 6.70).
+#94 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2926: HI3535DMEB, 18. Power (6.40, 7.40).
+#95 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2925: HI3535DMEB, 18. Power (7.90, 7.80).
+#96 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C88: HI3535DMEB, 18. Power (10.30, 8.50).
+#97 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C196: HI3535DMEB, 18. Power (5.60, 10.30).
+#98 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C71: HI3535DMEB, 18. Power (6.30, 10.30).
+#99 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C226: HI3535DMEB, 18. Power (6.60, 10.30).
+#100 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C223: HI3535DMEB, 18. Power (6.90, 10.30).
+#101 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C207: HI3535DMEB, 19. Power 1 (6.79, 2.01).
+#102 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C150: HI3535DMEB, 19. Power 1 (3.23, 2.81).
+#103 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C228: HI3535DMEB, 19. Power 1 (3.53, 2.81).
+#104 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C77: HI3535DMEB, 19. Power 1 (3.83, 2.81).
+#105 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C159: HI3535DMEB, 19. Power 1 (8.80, 3.00).
+#106 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C161: HI3535DMEB, 19. Power 1 (9.00, 3.00).
+#107 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C79: HI3535DMEB, 19. Power 1 (9.20, 3.00).
+#108 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C248: HI3535DMEB, 19. Power 1 (9.40, 3.00).
+#109 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C160: HI3535DMEB, 19. Power 1 (10.40, 3.00).
+#110 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C78: HI3535DMEB, 19. Power 1 (10.70, 3.00).
+#111 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C198: HI3535DMEB, 19. Power 1 (11.00, 3.00).
+#112 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C249: HI3535DMEB, 19. Power 1 (11.30, 3.00).
+#113 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C9: HI3535DMEB, 19. Power 1 (4.63, 3.21).
+#114 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C76: HI3535DMEB, 19. Power 1 (5.13, 3.21).
+#115 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2923: HI3535DMEB, 19. Power 1 (8.50, 3.70).
+#116 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2927: HI3535DMEB, 19. Power 1 (6.40, 3.80).
+#117 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2897: HI3535DMEB, 20. Power 2 (5.67, 3.83).
+#118 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2921: HI3535DMEB, 20. Power 2 (6.50, 3.90).
+#119 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2898: HI3535DMEB, 20. Power 2 (6.90, 3.90).
+#120 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2900: HI3535DMEB, 20. Power 2 (6.20, 4.90).
+#121 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2909: HI3535DMEB, 20. Power 2 (10.10, 4.90).
+#122 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C167: HI3535DMEB, 20. Power 2 (11.90, 5.30).
+#123 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C165: HI3535DMEB, 20. Power 2 (12.20, 5.30).
+#124 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2907: HI3535DMEB, 20. Power 2 (12.50, 5.30).
+#125 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C250: HI3535DMEB, 20. Power 2 (12.80, 5.30).
+#126 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C166: HI3535DMEB, 20. Power 2 (14.00, 5.30).
+#127 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C85: HI3535DMEB, 20. Power 2 (14.30, 5.30).
+#128 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2908: HI3535DMEB, 20. Power 2 (14.50, 5.30).
+#129 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C251: HI3535DMEB, 20. Power 2 (14.80, 5.30).
+#130 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2913: HI3535DMEB, 20. Power 2 (4.31, 5.59).
+#131 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2920: HI3535DMEB, 20. Power 2 (1.50, 5.60).
+#132 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2919: HI3535DMEB, 20. Power 2 (1.75, 5.60).
+#133 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2918: HI3535DMEB, 20. Power 2 (1.95, 5.60).
+#134 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2917: HI3535DMEB, 20. Power 2 (3.40, 5.60).
+#135 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2916: HI3535DMEB, 20. Power 2 (3.60, 5.60).
+#136 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2915: HI3535DMEB, 20. Power 2 (3.80, 5.60).
+#137 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2914: HI3535DMEB, 20. Power 2 (4.00, 5.60).
+#138 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2911: HI3535DMEB, 20. Power 2 (9.80, 6.00).
+#139 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2929: HI3535DMEB, 20. Power 2 (5.20, 7.40).
+#140 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2928: HI3535DMEB, 20. Power 2 (11.20, 7.40).
+#141 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2906: HI3535DMEB, 20. Power 2 (6.30, 7.90).
+#142 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2912: HI3535DMEB, 20. Power 2 (10.20, 7.90).
+#143 WARNING(ORCAP-36006): Part Name "CAP NP_C0402_DISCRETE_0.1UF_HTTP://WWW.DIGIKEY.CA/PRODUCT-DETAIL/EN/MURATA-ELECTRONICS-NORTH-AMERICA/GRM21BR60J106ME19L/490-1718-1-ND/587425" is renamed to "CAP NP_C0402_DISCRETE_0.1UF_HTT".
+#144 WARNING(ORCAP-36006): Part Name "C0603_C0402_MATCHING CIRCUIT, WILL BE DETERMINED" is renamed to "C0603_C0402_MATCHING CIRCUIT, W".
+#145 WARNING(ORCAP-36006): Part Name "CAP NP_C0402_DISCRETE_0.1UF_HTTP://WWW.DIGIKEY.CA/PRODUCT-DETAIL/EN/YAGEO/CC0805KRX7R9BB103/311-1136-2-ND/302870" is renamed to "CAP NP_C0402_DISCRETE_0.1UF_H_1".
+#146 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2178: HI3535DMEB, 23. Wireless (6.45, 8.10).
+#147 WARNING(ORCAP-36006): Part Name "CAPC-SM0805_0_SMC0603_DISCRETE_10UF/6.3V" is renamed to "CAPC-SM0805_0_SMC0603_DISCRETE_".
+#148 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2182: HI3535DMEB, 23. Wireless (6.85, 8.10).
+#149 WARNING(ORCAP-36006): Part Name "CAPC-SM0402_10_SMC0402_DISCRETE_0.1UF_10%" is renamed to "CAPC-SM0402_10_SMC0402_DISCRETE".
+#150 WARNING(ORCAP-36006): Part Name "CAPC-SM0402_4_SMC0402_DISCRETE_0.1UF" is renamed to "CAPC-SM0402_4_SMC0402_DISCRETE_".
+#151 WARNING(ORCAP-36006): Part Name "CAPC-SM0402_4_SMC0402_DISCRETE_33PF" is renamed to "CAPC-SM0402_4_SMC0402_DISCRET_1".
+#152 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C360: HI3535DMEB, 22. UART & Debug (6.88, 4.98).
+#153 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C361: HI3535DMEB, 22. UART & Debug (7.48, 4.98).
+#154 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C362: HI3535DMEB, 22. UART & Debug (7.73, 4.98).
+#155 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C363: HI3535DMEB, 22. UART & Debug (1.73, 6.03).
+#156 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C364: HI3535DMEB, 22. UART & Debug (2.18, 6.03).
+#157 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C365: HI3535DMEB, 22. UART & Debug (7.03, 6.28).
+#158 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C366: HI3535DMEB, 22. UART & Debug (7.48, 6.28).
+#159 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C367: HI3535DMEB, 22. UART & Debug (7.73, 6.28).
+#160 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance D2104: HI3535DMEB, 20. Power 2 (10.80, 5.40).
+#161 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance D1: HI3535DMEB, 18. Power (6.00, 10.30).
+#162 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance D21: HI3535DMEB, 19. Power 1 (5.10, 7.80).
+#163 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance D2103: HI3535DMEB, 20. Power 2 (5.60, 5.30).
+#164 WARNING(ORCAP-36006): Part Name "ESD_1_SOT23_NC/ESDA6V8UL/AZC199-02S" is renamed to "ESD_1_SOT23_NC/ESDA6V8UL/AZC199".
+#165 WARNING(ORCAP-36006): Part Name "ESD,ES0402V014BT_2_ESD0402_ES0402V014BT" is renamed to "ESD,ES0402V014BT_2_ESD0402_ES04".
+#166 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance F1: HI3535DMEB, 18. Power (4.65, 9.55).
+#167 WARNING(ORCAP-36006): Part Name "FB0603_0_SMR0603_DISCRETE_31/3A-L3" is renamed to "FB0603_0_SMR0603_DISCRETE_31/3A".
+#168 WARNING(ORCAP-36006): Part Name "RJ45_7_SI-51009-F_LPJG4813HENL_LPJG4813HENL" is renamed to "RJ45_7_SI-51009-F_LPJG4813HENL_".
+#169 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance J3: HI3535DMEB, 18. Power (2.05, 9.65).
+#170 WARNING(ORCAP-36006): Part Name "HEADER 3_PHEONIX_CONN_3_691322310003_691322310003" is renamed to "HEADER 3_PHEONIX_CONN_3_6913223".
+#171 WARNING(ORCAP-36006): Part Name "HEADER 4_HEADER-4_HEADER 4 2.54MM /NC" is renamed to "HEADER 4_HEADER-4_HEADER 4 2.54".
+#172 WARNING(ORCAP-36006): Part Name "HDMI_A_HDMI_A_10029449-111RLF_10029449-111RLF" is renamed to "HDMI_A_HDMI_A_10029449-111RLF_1".
+#173 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance L9: HI3535DMEB, 18. Power (7.50, 2.10).
+#174 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance L8: HI3535DMEB, 18. Power (7.70, 6.10).
+#175 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance L11: HI3535DMEB, 19. Power 1 (7.90, 2.60).
+#176 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance L2014: HI3535DMEB, 20. Power 2 (5.00, 4.90).
+#177 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance L2015: HI3535DMEB, 20. Power 2 (11.20, 4.90).
+#178 WARNING(ORCAP-36006): Part Name "INDUCTOR_0_R0402_MATCHING CIRCUIT,WILL BE DETERMINED" is renamed to "INDUCTOR_0_R0402_MATCHING CIRCU".
+#179 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance LB15: HI3535DMEB, 18. Power (2.10, 1.30).
+#180 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance LB10: HI3535DMEB, 18. Power (9.50, 1.90).
+#181 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance LB14: HI3535DMEB, 18. Power (2.15, 5.30).
+#182 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance LB9: HI3535DMEB, 18. Power (9.55, 5.90).
+#183 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance LB17: HI3535DMEB, 19. Power 1 (2.38, 1.81).
+#184 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance LB12: HI3535DMEB, 19. Power 1 (9.80, 2.40).
+#185 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance LB2116: HI3535DMEB, 20. Power 2 (4.90, 2.80).
+#186 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance LB2118: HI3535DMEB, 20. Power 2 (2.40, 4.70).
+#187 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance LB2117: HI3535DMEB, 20. Power 2 (13.30, 4.70).
+#188 WARNING(ORCAP-36006): Part Name "LED_LTST-C150GKT_0_SM0603LED_AC_DISCRETE_LED0603-G" is renamed to "LED_LTST-C150GKT_0_SM0603LED_AC".
+#189 WARNING(ORCAP-36006): Part Name "MOSFET N_SOT23_WNM2021/2SK3018_WNM2021/2SK3018" is renamed to "MOSFET N_SOT23_WNM2021/2SK3018_".
+#190 WARNING(ORCAP-36006): Part Name "MOSFET N_SOT23_NC/WNM2021/2SK3018" is renamed to "MOSFET N_SOT23_NC/WNM2021/2SK30".
+#191 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2864: HI3535DMEB, 05. ETH1 (2.10, 10.60).
+#192 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R71: HI3535DMEB, 06. HI3535 DDR3 (2.63, 8.92).
+#193 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R72: HI3535DMEB, 07. DDR3_A (8.76, 6.24).
+#194 WARNING(ORCAP-36006): Part Name "R_1_SR0402_240_(T:SR0402;B:SR0402,SR0402-BGA)" is renamed to "R_1_SR0402_240_(T:SR0402;B:SR04".
+#195 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R73: HI3535DMEB, 08. DDR3_B (9.84, 7.03).
+#196 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R46: HI3535DMEB, 09. System & flash (10.40, 7.40).
+#197 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R47: HI3535DMEB, 09. System & flash (10.70, 7.40).
+#198 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R48: HI3535DMEB, 09. System & flash (10.90, 7.40).
+#199 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R49: HI3535DMEB, 09. System & flash (13.50, 7.95).
+#200 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R50: HI3535DMEB, 09. System & flash (13.65, 7.95).
+#201 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R116: HI3535DMEB, 09. System & flash (10.30, 10.10).
+#202 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R115: HI3535DMEB, 09. System & flash (10.55, 10.50).
+#203 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R29: HI3535DMEB, 10. Power on setting pins (10.99, 2.78).
+#204 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R75: HI3535DMEB, 10. Power on setting pins (13.21, 2.79).
+#205 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R27: HI3535DMEB, 10. Power on setting pins (8.72, 2.81).
+#206 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R30: HI3535DMEB, 10. Power on setting pins (10.99, 3.51).
+#207 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R74: HI3535DMEB, 10. Power on setting pins (13.21, 3.52).
+#208 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2929: HI3535DMEB, 04. ETH0 (5.15, 2.96).
+#209 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R28: HI3535DMEB, 10. Power on setting pins (8.72, 3.54).
+#210 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R35: HI3535DMEB, 10. Power on setting pins (9.10, 7.34).
+#211 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R64: HI3535DMEB, 10. Power on setting pins (9.10, 8.07).
+#212 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2942: HI3535DMEB, 04. ETH0 (8.74, 1.31).
+#213 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R117: HI3535DMEB, 04. ETH0 (11.04, 3.26).
+#214 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R278: HI3535DMEB, 18. Power (7.00, 1.50).
+#215 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R24: HI3535DMEB, 18. Power (3.95, 2.60).
+#216 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R146: HI3535DMEB, 18. Power (8.00, 3.50).
+#217 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R39: HI3535DMEB, 18. Power (8.60, 4.00).
+#218 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R142: HI3535DMEB, 18. Power (9.30, 4.00).
+#219 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R223: HI3535DMEB, 18. Power (9.90, 4.00).
+#220 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R18: HI3535DMEB, 18. Power (10.80, 4.00).
+#221 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R118: HI3535DMEB, 04. ETH0 (11.04, 3.36).
+#222 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R163: HI3535DMEB, 18. Power (8.00, 4.40).
+#223 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R279: HI3535DMEB, 18. Power (7.20, 5.50).
+#224 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R25: HI3535DMEB, 18. Power (4.00, 6.60).
+#225 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R141: HI3535DMEB, 18. Power (8.20, 7.80).
+#226 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R40: HI3535DMEB, 18. Power (8.70, 8.20).
+#227 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R128: HI3535DMEB, 18. Power (9.30, 8.20).
+#228 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R135: HI3535DMEB, 18. Power (10.00, 8.20).
+#229 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R17: HI3535DMEB, 18. Power (10.80, 8.20).
+#230 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R126: HI3535DMEB, 18. Power (8.20, 8.50).
+#231 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R11: HI3535DMEB, 18. Power (2.90, 9.00).
+#232 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R22: HI3535DMEB, 18. Power (7.25, 10.30).
+#233 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R281: HI3535DMEB, 19. Power 1 (7.29, 2.01).
+#234 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R42: HI3535DMEB, 19. Power 1 (4.23, 3.11).
+#235 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R240: HI3535DMEB, 19. Power 1 (8.50, 4.00).
+#236 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R147: HI3535DMEB, 19. Power 1 (7.90, 4.40).
+#237 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R256: HI3535DMEB, 19. Power 1 (7.10, 7.20).
+#238 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R271: HI3535DMEB, 19. Power 1 (9.30, 7.20).
+#239 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R269: HI3535DMEB, 19. Power 1 (5.50, 7.50).
+#240 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R268: HI3535DMEB, 19. Power 1 (7.70, 7.50).
+#241 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R273: HI3535DMEB, 19. Power 1 (4.30, 7.90).
+#242 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R270: HI3535DMEB, 19. Power 1 (7.70, 7.90).
+#243 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R257: HI3535DMEB, 19. Power 1 (7.10, 8.20).
+#244 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R272: HI3535DMEB, 19. Power 1 (9.30, 8.20).
+#245 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2937: HI3535DMEB, 20. Power 2 (1.20, 5.60).
+#246 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2929: HI3535DMEB, 20. Power 2 (4.10, 7.00).
+#247 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2926: HI3535DMEB, 20. Power 2 (5.20, 7.00).
+#248 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2934: HI3535DMEB, 20. Power 2 (11.20, 7.00).
+#249 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2935: HI3535DMEB, 20. Power 2 (12.10, 7.00).
+#250 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2927: HI3535DMEB, 20. Power 2 (6.80, 7.20).
+#251 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2936: HI3535DMEB, 20. Power 2 (9.80, 7.30).
+#252 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2941: HI3535DMEB, 04. ETH0 (9.63, 3.56).
+#253 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2928: HI3535DMEB, 20. Power 2 (6.30, 7.40).
+#254 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2932: HI3535DMEB, 20. Power 2 (10.20, 7.40).
+#255 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_R0402_DISCRETE_10K_HTTP://WWW.DIGIKEY.CA/PRODUCT-DETAIL/EN/YAGEO/RC0603JR-0710KL/311-10KGRTR-ND/726700" is renamed to "RES-SM0402_2_R0402_DISCRETE_10K".
+#256 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_R0402_DISCRETE_0R_HTTP://WWW.DIGIKEY.CA/PRODUCT-DETAIL/EN/YAGEO/RC0603JR-0710KL/311-10KGRTR-ND/726700" is renamed to "RES-SM0402_2_R0402_DISCRETE_0R_".
+#257 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_SMR0402_DISCRETE_0R/NM" is renamed to "RES-SM0402_2_SMR0402_DISCRETE_0".
+#258 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_SMR0402_DISCRETE_0R" is renamed to "RES-SM0402_2_SMR0402_DISCRETE_1".
+#259 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_SMR0402_DISCRETE_240R" is renamed to "RES-SM0402_2_SMR0402_DISCRETE_2".
+#260 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R271: HI3535DMEB, 22. UART & Debug (7.28, 4.98).
+#261 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R272: HI3535DMEB, 22. UART & Debug (7.28, 6.28).
+#262 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R273: HI3535DMEB, 22. UART & Debug (4.53, 5.73).
+#263 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R274: HI3535DMEB, 22. UART & Debug (4.21, 5.33).
+#264 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R275: HI3535DMEB, 22. UART & Debug (1.18, 5.73).
+#265 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R276: HI3535DMEB, 22. UART & Debug (4.18, 4.73).
+#266 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R277: HI3535DMEB, 22. UART & Debug (1.28, 4.73).
+#267 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R278: HI3535DMEB, 22. UART & Debug (1.73, 4.13).
+#268 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R279: HI3535DMEB, 22. UART & Debug (2.48, 4.78).
+#269 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2939: HI3535DMEB, 04. ETH0 (9.63, 3.66).
+#270 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R280: HI3535DMEB, 22. UART & Debug (2.48, 5.98).
+#271 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2935: HI3535DMEB, 04. ETH0 (4.88, 1.56).
+#272 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2937: HI3535DMEB, 04. ETH0 (9.64, 3.86).
+#273 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R110: HI3535DMEB, 04. ETH0 (4.54, 4.16).
+#274 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2926: HI3535DMEB, 04. ETH0 (4.64, 4.66).
+#275 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R120: HI3535DMEB, 04. ETH0 (16.23, 6.24).
+#276 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R121: HI3535DMEB, 04. ETH0 (15.73, 6.39).
+#277 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R119: HI3535DMEB, 04. ETH0 (15.73, 6.49).
+#278 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R248: HI3535DMEB, 04. ETH0 (15.73, 6.61).
+#279 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R38: HI3535DMEB, 04. ETH0 (3.54, 6.66).
+#280 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2930: HI3535DMEB, 04. ETH0 (4.87, 1.66).
+#281 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R246: HI3535DMEB, 04. ETH0 (1.91, 8.45).
+#282 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R247: HI3535DMEB, 04. ETH0 (3.64, 8.45).
+#283 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R245: HI3535DMEB, 04. ETH0 (1.91, 8.55).
+#284 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R244: HI3535DMEB, 04. ETH0 (3.64, 8.55).
+#285 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R152: HI3535DMEB, 04. ETH0 (7.32, 8.67).
+#286 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R161: HI3535DMEB, 04. ETH0 (7.25, 9.49).
+#287 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R242: HI3535DMEB, 04. ETH0 (8.71, 9.49).
+#288 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R243: HI3535DMEB, 04. ETH0 (2.20, 10.10).
+#289 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R67: HI3535DMEB, 04. ETH0 (8.74, 1.66).
+#290 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R241: HI3535DMEB, 04. ETH0 (8.72, 10.37).
+#291 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2946: HI3535DMEB, 05. ETH1 (8.94, 1.62).
+#292 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2844: HI3535DMEB, 05. ETH1 (5.10, 1.80).
+#293 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2845: HI3535DMEB, 05. ETH1 (5.10, 1.90).
+#294 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2943: HI3535DMEB, 05. ETH1 (8.90, 1.90).
+#295 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R65: HI3535DMEB, 05. ETH1 (5.00, 3.20).
+#296 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2893: HI3535DMEB, 05. ETH1 (11.20, 3.50).
+#297 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2894: HI3535DMEB, 05. ETH1 (11.20, 3.60).
+#298 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2842: HI3535DMEB, 05. ETH1 (9.90, 3.80).
+#299 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2843: HI3535DMEB, 05. ETH1 (9.80, 3.90).
+#300 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2841: HI3535DMEB, 05. ETH1 (9.80, 4.10).
+#301 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2945: HI3535DMEB, 05. ETH1 (4.50, 4.40).
+#302 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2839: HI3535DMEB, 05. ETH1 (4.80, 4.60).
+#303 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2840: HI3535DMEB, 05. ETH1 (4.80, 4.90).
+#304 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2846: HI3535DMEB, 05. ETH1 (3.80, 6.90).
+#305 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2889: HI3535DMEB, 05. ETH1 (7.00, 7.20).
+#306 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2866: HI3535DMEB, 05. ETH1 (16.69, 7.39).
+#307 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2867: HI3535DMEB, 05. ETH1 (16.19, 7.54).
+#308 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R333: HI3535DMEB, 05. ETH1 (16.20, 7.74).
+#309 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2859: HI3535DMEB, 05. ETH1 (7.18, 8.18).
+#310 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2860: HI3535DMEB, 05. ETH1 (7.18, 8.38).
+#311 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2856: HI3535DMEB, 05. ETH1 (1.86, 8.55).
+#312 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2857: HI3535DMEB, 05. ETH1 (3.59, 8.55).
+#313 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2855: HI3535DMEB, 05. ETH1 (1.86, 8.65).
+#314 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2858: HI3535DMEB, 05. ETH1 (3.59, 8.65).
+#315 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2863: HI3535DMEB, 05. ETH1 (7.11, 9.20).
+#316 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2944: HI3535DMEB, 05. ETH1 (8.65, 9.20).
+#317 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2861: HI3535DMEB, 05. ETH1 (6.94, 10.08).
+#318 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2862: HI3535DMEB, 05. ETH1 (8.58, 10.08).
+#319 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance S2: HI3535DMEB, 18. Power (3.65, 9.45).
+#320 WARNING(ORCAP-36006): Part Name "TRNSFMR 67115100_0_CHOKE_COIL_DLW21SN900SQ2L" is renamed to "TRNSFMR 67115100_0_CHOKE_COIL_D".
+#321 WARNING(ORCAP-36006): Part Name "DS8008_1_SLP2510P8_NC/RCLAMP0524PA/ESD5304/TPD4E02B04DQAR" is renamed to "DS8008_1_SLP2510P8_NC/RCLAMP052".
+#322 WARNING(ORCAP-36006): Part Name "DS8008_2_SLP2510P8_NC/RCLAMP0524PA/ESD5304/TPD4E02B04DQAR" is renamed to "DS8008_2_SLP2510P8_NC/RCLAMP052".
+#323 WARNING(ORCAP-36006): Part Name "FMB3904_1_SSOT-6L_FMB3904 DUAL NPN" is renamed to "FMB3904_1_SSOT-6L_FMB3904 DUAL".
+#324 WARNING(ORCAP-36006): Part Name "TPS54383PWP_HTSSOP14_TPS54383PWP" is renamed to "TPS54383PWP_HTSSOP14_TPS54383PW".
+#325 WARNING(ORCAP-36006): Part Name "WM-294_0_WIFI_BT_R_RL-UM12BS-8188EUS" is renamed to "WM-294_0_WIFI_BT_R_RL-UM12BS-81".
+#326 WARNING(ORCAP-36006): Part Name "DS8008_4_SOT23-5_PT5108E23E-33/RT9013-33B" is renamed to "DS8008_4_SOT23-5_PT5108E23E-33/".
+#327 WARNING(ORCAP-36006): Part Name "CRYSTAL DIP DT38 R_2.A_5032-12M_12M/20PF" is renamed to "CRYSTAL DIP DT38 R_2.A_5032-12M".
+#328 WARNING(ORCAP-36006): Part Name "CRYSTAL DIP DT38 R_2.A_CM315D_32.768K" is renamed to "CRYSTAL DIP DT38 R_2.A_CM315D_3".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\SENIOR_THESIS\1. SCHEMATIC\ALLEGRO/pstchip.dat
+
+Loading... E:\SENIOR_THESIS\1. SCHEMATIC\ALLEGRO/pstchip.dat
+
+Loading... E:\SENIOR_THESIS\1. SCHEMATIC\ALLEGRO/pstxprt.dat
+
+Loading... E:\SENIOR_THESIS\1. SCHEMATIC\ALLEGRO/pstxnet.dat
+packaging the design view...
