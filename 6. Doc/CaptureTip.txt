@@ -1,0 +1,18 @@
+NC PIN DECLARATION
+1. In Capture, R-click on symbol -> Edit Part.
+2. Options -> Part Properties -> New.
+3. Name: NC ; Value <list of pin name>.
+4. OK -> Update All or Update Current.
+
+CHANGE FOOTPRINT A GROUP OF SIMILAR SYMBOLS
+1. In "text to search" box, type: r* -> Click Find. All resistors in sheet will be selected.
+2. R-click on symbols -> Edit Property.
+3. Change footprint of 1 symbol -> Copy it.
+4. Click on the top of Footprint column to select the whole column -> R-click -> Paste.
+
+RUN DRC IN CAPTURE
+1. On the project manager, click on the dsn file.
+2. Tool -> Design Rules Check -> Check in Run Electrical Rules and Run Physical Rules boxes.
+3. OK -> OK -> Check Session log.
+
+UPDATE SCHEMATIC TO PCB DESIGN

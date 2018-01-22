@@ -1,0 +1,244 @@
+{ Using PSTWRITER 17.0.0 d001Nov-30-2017 at 16:13:42 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J7.13" ignored for J7: HI3535DMEB, 14. HDMI (12.54, 3.17). Connecting pin to net "N4024172".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U20.8" ignored for U20: HI3535DMEB, UART & Debug (2.70, 1.40). Connecting pin to net "RS232_RX_IOM".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "MPCIE_A_1.1" ignored for MPCIE_A_1: HI3535DMEB, Wireless (3.75, 8.00). Connecting pin to net "GPIO1_5".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U20.10" ignored for U20: HI3535DMEB, UART & Debug (2.70, 1.40). Connecting pin to net "UART2_TXD".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U11.3" ignored for U11: HI3535DMEB, 12. USB & SATA (14.70, 6.80). Connecting pin to net "HUB_DP2".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U11.2" ignored for U11: HI3535DMEB, 12. USB & SATA (14.70, 6.80). Connecting pin to net "HUB_DM2".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U22.6" ignored for U22: HI3535DMEB, Wireless (14.60, 5.40). Connecting pin to net "N3999271".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "SIM1.5" ignored for SIM1: HI3535DMEB, Wireless (4.20, 11.55). Connecting pin to net "N4000723".
+#9 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C97: HI3535DMEB, 07. DDR3_A (12.52, 0.70).
+#10 WARNING(ORCAP-36006): Part Name "C_SC0402_100NF_(T:SC0402;B:SC0402,SC0402-BGA,SC0402-BGA-A)" is renamed to "C_SC0402_100NF_(T:SC0402;B:SC04".
+#11 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C96: HI3535DMEB, 07. DDR3_A (14.54, 0.70).
+#12 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C99: HI3535DMEB, 07. DDR3_A (12.52, 1.45).
+#13 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C95: HI3535DMEB, 07. DDR3_A (14.54, 1.45).
+#14 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C102: HI3535DMEB, 07. DDR3_A (12.06, 5.79).
+#15 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C103: HI3535DMEB, 07. DDR3_A (12.31, 5.79).
+#16 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C104: HI3535DMEB, 07. DDR3_A (12.56, 5.79).
+#17 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C105: HI3535DMEB, 07. DDR3_A (12.81, 5.79).
+#18 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C106: HI3535DMEB, 07. DDR3_A (13.06, 5.79).
+#19 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C107: HI3535DMEB, 07. DDR3_A (13.31, 5.79).
+#20 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C108: HI3535DMEB, 07. DDR3_A (13.56, 5.79).
+#21 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C109: HI3535DMEB, 07. DDR3_A (13.86, 5.79).
+#22 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C87: HI3535DMEB, 07. DDR3_A (14.11, 5.79).
+#23 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C88: HI3535DMEB, 07. DDR3_A (11.76, 7.84).
+#24 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C89: HI3535DMEB, 07. DDR3_A (12.01, 7.84).
+#25 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C90: HI3535DMEB, 07. DDR3_A (12.26, 7.84).
+#26 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C91: HI3535DMEB, 07. DDR3_A (12.51, 7.84).
+#27 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C92: HI3535DMEB, 07. DDR3_A (12.76, 7.84).
+#28 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C93: HI3535DMEB, 07. DDR3_A (13.01, 7.84).
+#29 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C94: HI3535DMEB, 07. DDR3_A (13.26, 7.84).
+#30 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C101: HI3535DMEB, 07. DDR3_A (13.51, 7.84).
+#31 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C100: HI3535DMEB, 07. DDR3_A (13.76, 7.84).
+#32 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C127: HI3535DMEB, 08. DDR3_B (15.89, 1.28).
+#33 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C128: HI3535DMEB, 08. DDR3_B (13.75, 1.30).
+#34 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C126: HI3535DMEB, 08. DDR3_B (15.89, 2.03).
+#35 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C129: HI3535DMEB, 08. DDR3_B (13.75, 2.05).
+#36 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C110: HI3535DMEB, 08. DDR3_B (13.14, 6.58).
+#37 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C111: HI3535DMEB, 08. DDR3_B (13.39, 6.58).
+#38 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C112: HI3535DMEB, 08. DDR3_B (13.64, 6.58).
+#39 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C113: HI3535DMEB, 08. DDR3_B (13.89, 6.58).
+#40 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C114: HI3535DMEB, 08. DDR3_B (14.14, 6.58).
+#41 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C115: HI3535DMEB, 08. DDR3_B (14.39, 6.58).
+#42 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C116: HI3535DMEB, 08. DDR3_B (14.64, 6.58).
+#43 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C117: HI3535DMEB, 08. DDR3_B (14.94, 6.58).
+#44 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C118: HI3535DMEB, 08. DDR3_B (15.19, 6.58).
+#45 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C119: HI3535DMEB, 08. DDR3_B (12.84, 8.63).
+#46 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C120: HI3535DMEB, 08. DDR3_B (13.09, 8.63).
+#47 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C121: HI3535DMEB, 08. DDR3_B (13.34, 8.63).
+#48 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C122: HI3535DMEB, 08. DDR3_B (13.59, 8.63).
+#49 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C123: HI3535DMEB, 08. DDR3_B (13.84, 8.63).
+#50 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C124: HI3535DMEB, 08. DDR3_B (14.09, 8.63).
+#51 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C125: HI3535DMEB, 08. DDR3_B (14.34, 8.63).
+#52 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C131: HI3535DMEB, 08. DDR3_B (14.59, 8.63).
+#53 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C130: HI3535DMEB, 08. DDR3_B (14.84, 8.63).
+#54 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C150: HI3535DMEB, 12. USB & SATA (16.51, 1.74).
+#55 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C149: HI3535DMEB, 12. USB & SATA (16.51, 1.84).
+#56 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C153: HI3535DMEB, 12. USB & SATA (16.51, 2.04).
+#57 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C148: HI3535DMEB, 12. USB & SATA (16.51, 2.14).
+#58 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C145: HI3535DMEB, 12. USB & SATA (7.80, 5.80).
+#59 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C144: HI3535DMEB, 12. USB & SATA (7.80, 5.90).
+#60 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C432: HI3535DMEB, 13. Display (3.28, 4.64).
+#61 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C430: HI3535DMEB, 13. Display (3.38, 5.63).
+#62 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2896: HI3535DMEB, 14. HDMI (5.90, 3.70).
+#63 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C254(C_0) and C228(C) for part "06035C103KAT2A".
+#64 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C270(C_0) and C114(C) for part "GRM188R61A225KE34D".
+#65 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C271(C_0) and C228(C) for part "06035C103KAT2A".
+#66 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C287(C_0) and C114(C) for part "GRM188R61A225KE34D".
+#67 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C292(C_0) and C228(C) for part "06035C103KAT2A".
+#68 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C304 and C283 for part "GRM188R61C105KA12D".
+              PCB Footprint
+              VALUE
+#69 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C306 and C258 for part "GRM31CR60J226ME19L".
+              PCB Footprint
+              VALUE
+#70 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C309 and C269 for part "CP".
+              VALUE
+#71 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C311 and C269 for part "CP".
+              PCB Footprint
+              VALUE
+#72 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C312 and C269 for part "CP".
+              PCB Footprint
+              VALUE
+#73 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C323(C_0) and C100(C) for part "RMEMK105BJ104KV_FR".
+#74 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C325(C_0) and C100(C) for part "RMEMK105BJ104KV_FR".
+#75 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C329 and C269 for part "CP".
+              PCB Footprint
+              VALUE
+#76 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C330 and C269 for part "CP".
+              PCB Footprint
+              VALUE
+#77 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C331 and C269 for part "CP".
+              PCB Footprint
+              VALUE
+#78 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C332 and C269 for part "CP".
+              PCB Footprint
+              VALUE
+#79 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on C333 and C269 for part "CP".
+              PCB Footprint
+              VALUE
+#80 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C334(C) and C269(C_0) for part "CP".
+#81 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C335(C) and C269(C_0) for part "CP".
+#82 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C336(C) and C269(C_0) for part "CP".
+#83 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C337(C) and C269(C_0) for part "CP".
+#84 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C338(C) and C269(C_0) for part "CP".
+#85 WARNING(ORCAP-36006): Part Name "CAP NP_C0402_DISCRETE_0.1UF_HTTP://WWW.DIGIKEY.CA/PRODUCT-DETAIL/EN/MURATA-ELECTRONICS-NORTH-AMERICA/GRM21BR60J106ME19L/490-1718-1-ND/587425" is renamed to "CAP NP_C0402_DISCRETE_0.1UF_HTT".
+#86 WARNING(ORCAP-36006): Part Name "C0603_C0402_MATCHING CIRCUIT, WILL BE DETERMINED" is renamed to "C0603_C0402_MATCHING CIRCUIT, W".
+#87 WARNING(ORCAP-36006): Part Name "CAP NP_C0402_DISCRETE_0.1UF_HTTP://WWW.DIGIKEY.CA/PRODUCT-DETAIL/EN/YAGEO/CC0805KRX7R9BB103/311-1136-2-ND/302870" is renamed to "CAP NP_C0402_DISCRETE_0.1UF_H_1".
+#88 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2178: HI3535DMEB, Wireless (6.45, 8.10).
+#89 WARNING(ORCAP-36006): Part Name "CAPC-SM0805_0_SMC0603_DISCRETE_10UF/6.3V" is renamed to "CAPC-SM0805_0_SMC0603_DISCRETE_".
+#90 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance C2182: HI3535DMEB, Wireless (6.85, 8.10).
+#91 WARNING(ORCAP-36006): Part Name "CAPC-SM0402_10_SMC0402_DISCRETE_0.1UF_10%" is renamed to "CAPC-SM0402_10_SMC0402_DISCRETE".
+#92 WARNING(ORCAP-36006): Part Name "CAPC-SM0402_4_SMC0402_DISCRETE_0.1UF" is renamed to "CAPC-SM0402_4_SMC0402_DISCRETE_".
+#93 WARNING(ORCAP-36006): Part Name "CAPC-SM0402_4_SMC0402_DISCRETE_33PF" is renamed to "CAPC-SM0402_4_SMC0402_DISCRET_1".
+#94 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C70(C) and C258(C_0) for part "GRM31CR60J226ME19L".
+#95 ERROR(ORCAP-36001): Conflicting values of Source Part names found on C78(C) and C258(C_0) for part "GRM31CR60J226ME19L".
+#96 WARNING(ORCAP-36006): Part Name "ESD_1_SOT23_NC/ESDA6V8UL/AZC199-02S" is renamed to "ESD_1_SOT23_NC/ESDA6V8UL/AZC199".
+#97 WARNING(ORCAP-36006): Part Name "ESD,ES0402V014BT_2_ESD0402_ES0402V014BT" is renamed to "ESD,ES0402V014BT_2_ESD0402_ES04".
+#98 WARNING(ORCAP-36006): Part Name "FB0603_0_SMR0603_DISCRETE_31/3A-L3" is renamed to "FB0603_0_SMR0603_DISCRETE_31/3A".
+#99 WARNING(ORCAP-36006): Part Name "RJ45_7_SI-51009-F_LPJG4813HENL_LPJG4813HENL" is renamed to "RJ45_7_SI-51009-F_LPJG4813HENL_".
+#100 WARNING(ORCAP-36006): Part Name "HEADER 3_PHEONIX_CONN_3_691322310003_691322310003" is renamed to "HEADER 3_PHEONIX_CONN_3_6913223".
+#101 WARNING(ORCAP-36006): Part Name "HEADER 4_HEADER-4_HEADER 4 2.54MM /NC" is renamed to "HEADER 4_HEADER-4_HEADER 4 2.54".
+#102 WARNING(ORCAP-36006): Part Name "HDMI_A_HDMI_A_10029449-111RLF_10029449-111RLF" is renamed to "HDMI_A_HDMI_A_10029449-111RLF_1".
+#103 WARNING(ORCAP-36006): Part Name "INDUCTOR_0_R0402_MATCHING CIRCUIT,WILL BE DETERMINED" is renamed to "INDUCTOR_0_R0402_MATCHING CIRCU".
+#104 WARNING(ORCAP-36006): Part Name "LED_LTST-C150GKT_0_SM0603LED_AC_DISCRETE_LED0603-G" is renamed to "LED_LTST-C150GKT_0_SM0603LED_AC".
+#105 WARNING(ORCAP-36006): Part Name "MOSFET N_SOT23_WNM2021/2SK3018_WNM2021/2SK3018" is renamed to "MOSFET N_SOT23_WNM2021/2SK3018_".
+#106 WARNING(ORCAP-36006): Part Name "MOSFET N_SOT23_NC/WNM2021/2SK3018" is renamed to "MOSFET N_SOT23_NC/WNM2021/2SK30".
+#107 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2864: HI3535DMEB, 05. ETH1 (2.10, 10.60).
+#108 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R71: HI3535DMEB, 06. HI3535 DDR3 (2.63, 8.92).
+#109 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R72: HI3535DMEB, 07. DDR3_A (8.76, 6.24).
+#110 WARNING(ORCAP-36006): Part Name "R_1_SR0402_240_(T:SR0402;B:SR0402,SR0402-BGA)" is renamed to "R_1_SR0402_240_(T:SR0402;B:SR04".
+#111 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R73: HI3535DMEB, 08. DDR3_B (9.84, 7.03).
+#112 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R46: HI3535DMEB, 09. System & flash (10.40, 7.40).
+#113 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R47: HI3535DMEB, 09. System & flash (10.70, 7.40).
+#114 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R48: HI3535DMEB, 09. System & flash (10.90, 7.40).
+#115 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R49: HI3535DMEB, 09. System & flash (13.50, 7.95).
+#116 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R50: HI3535DMEB, 09. System & flash (13.65, 7.95).
+#117 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R116: HI3535DMEB, 09. System & flash (10.30, 10.10).
+#118 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R115: HI3535DMEB, 09. System & flash (10.55, 10.50).
+#119 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R29: HI3535DMEB, 10. Power on setting pins (10.99, 2.78).
+#120 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R75: HI3535DMEB, 10. Power on setting pins (13.21, 2.79).
+#121 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R27: HI3535DMEB, 10. Power on setting pins (8.72, 2.81).
+#122 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R30: HI3535DMEB, 10. Power on setting pins (10.99, 3.51).
+#123 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R74: HI3535DMEB, 10. Power on setting pins (13.21, 3.52).
+#124 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2929: HI3535DMEB, 04. ETH0 (5.15, 2.96).
+#125 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R28: HI3535DMEB, 10. Power on setting pins (8.72, 3.54).
+#126 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R35: HI3535DMEB, 10. Power on setting pins (9.10, 7.34).
+#127 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R64: HI3535DMEB, 10. Power on setting pins (9.10, 8.07).
+#128 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2942: HI3535DMEB, 04. ETH0 (8.74, 1.31).
+#129 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R117: HI3535DMEB, 04. ETH0 (11.04, 3.26).
+#130 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R223(R_0) and R134(R_1) for part "RC0402JR_070R".
+#131 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R226(R_0) and R134(R_1) for part "RC0402JR_070R".
+#132 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R118: HI3535DMEB, 04. ETH0 (11.04, 3.36).
+#133 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R231(R_0) and R134(R_1) for part "RC0402JR_070R".
+#134 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R234(R_0) and R134(R_1) for part "RC0402JR_070R".
+#135 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R235(R_0) and R167(R_1) for part "RK73B1ELTP333J".
+#136 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R240(R_0) and R151(R_1) for part "RC0603JR_0710K".
+#137 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R241(R_0) and R134(R_1) for part "RC0402JR_070R".
+#138 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on R244 and R225 for part "RK73H1ETTP1102F".
+              VALUE
+#139 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R245(R_0) and R189(R_1) for part "RC0603JR_071K".
+#140 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R251(R_0) and R189(R_1) for part "RC0603JR_071K".
+#141 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R253(R_0) and R151(R_1) for part "RC0603JR_0710K".
+#142 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on R255 and R254 for part "R".
+              VALUE
+#143 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on R256 and R254 for part "R".
+              VALUE
+#144 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on R257 and R254 for part "R".
+              VALUE
+#145 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on R258 and R254 for part "R".
+              VALUE
+#146 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on R259 and R254 for part "R".
+              VALUE
+#147 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2941: HI3535DMEB, 04. ETH0 (9.63, 3.56).
+#148 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on R260 and R254 for part "R".
+              VALUE
+#149 ERROR(ORCAP-36003): Conflicting values of following Component Definition properties found on R261 and R254 for part "R".
+              VALUE
+#150 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_R0402_DISCRETE_10K_HTTP://WWW.DIGIKEY.CA/PRODUCT-DETAIL/EN/YAGEO/RC0603JR-0710KL/311-10KGRTR-ND/726700" is renamed to "RES-SM0402_2_R0402_DISCRETE_10K".
+#151 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_R0402_DISCRETE_0R_HTTP://WWW.DIGIKEY.CA/PRODUCT-DETAIL/EN/YAGEO/RC0603JR-0710KL/311-10KGRTR-ND/726700" is renamed to "RES-SM0402_2_R0402_DISCRETE_0R_".
+#152 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_SMR0402_DISCRETE_0R/NM" is renamed to "RES-SM0402_2_SMR0402_DISCRETE_0".
+#153 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_SMR0402_DISCRETE_0R" is renamed to "RES-SM0402_2_SMR0402_DISCRETE_1".
+#154 WARNING(ORCAP-36006): Part Name "RES-SM0402_2_SMR0402_DISCRETE_240R" is renamed to "RES-SM0402_2_SMR0402_DISCRETE_2".
+#155 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2939: HI3535DMEB, 04. ETH0 (9.63, 3.66).
+#156 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2935: HI3535DMEB, 04. ETH0 (4.88, 1.56).
+#157 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2937: HI3535DMEB, 04. ETH0 (9.64, 3.86).
+#158 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R110: HI3535DMEB, 04. ETH0 (4.54, 4.16).
+#159 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2926: HI3535DMEB, 04. ETH0 (4.64, 4.66).
+#160 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R120: HI3535DMEB, 04. ETH0 (16.23, 6.24).
+#161 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R121: HI3535DMEB, 04. ETH0 (15.73, 6.39).
+#162 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R119: HI3535DMEB, 04. ETH0 (15.73, 6.49).
+#163 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R248: HI3535DMEB, 04. ETH0 (15.73, 6.61).
+#164 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R38: HI3535DMEB, 04. ETH0 (3.54, 6.66).
+#165 ERROR(ORCAP-36001): Conflicting values of Source Part names found on R39(R_1) and R249(R_0) for part "RC0603JR_07470R".
+#166 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2930: HI3535DMEB, 04. ETH0 (4.87, 1.66).
+#167 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R246: HI3535DMEB, 04. ETH0 (1.91, 8.45).
+#168 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R247: HI3535DMEB, 04. ETH0 (3.64, 8.45).
+#169 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R245: HI3535DMEB, 04. ETH0 (1.91, 8.55).
+#170 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R244: HI3535DMEB, 04. ETH0 (3.64, 8.55).
+#171 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R152: HI3535DMEB, 04. ETH0 (7.32, 8.67).
+#172 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R161: HI3535DMEB, 04. ETH0 (7.25, 9.49).
+#173 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R242: HI3535DMEB, 04. ETH0 (8.71, 9.49).
+#174 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R243: HI3535DMEB, 04. ETH0 (2.20, 10.10).
+#175 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R67: HI3535DMEB, 04. ETH0 (8.74, 1.66).
+#176 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R241: HI3535DMEB, 04. ETH0 (8.72, 10.37).
+#177 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2946: HI3535DMEB, 05. ETH1 (8.94, 1.62).
+#178 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2844: HI3535DMEB, 05. ETH1 (5.10, 1.80).
+#179 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2845: HI3535DMEB, 05. ETH1 (5.10, 1.90).
+#180 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2943: HI3535DMEB, 05. ETH1 (8.90, 1.90).
+#181 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R65: HI3535DMEB, 05. ETH1 (5.00, 3.20).
+#182 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2893: HI3535DMEB, 05. ETH1 (11.20, 3.50).
+#183 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2894: HI3535DMEB, 05. ETH1 (11.20, 3.60).
+#184 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2842: HI3535DMEB, 05. ETH1 (9.90, 3.80).
+#185 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2843: HI3535DMEB, 05. ETH1 (9.80, 3.90).
+#186 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2841: HI3535DMEB, 05. ETH1 (9.80, 4.10).
+#187 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2945: HI3535DMEB, 05. ETH1 (4.50, 4.40).
+#188 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2839: HI3535DMEB, 05. ETH1 (4.80, 4.60).
+#189 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2840: HI3535DMEB, 05. ETH1 (4.80, 4.90).
+#190 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2846: HI3535DMEB, 05. ETH1 (3.80, 6.90).
+#191 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2889: HI3535DMEB, 05. ETH1 (7.00, 7.20).
+#192 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2866: HI3535DMEB, 05. ETH1 (16.69, 7.39).
+#193 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2867: HI3535DMEB, 05. ETH1 (16.19, 7.54).
+#194 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R333: HI3535DMEB, 05. ETH1 (16.20, 7.74).
+#195 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2859: HI3535DMEB, 05. ETH1 (7.18, 8.18).
+#196 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2860: HI3535DMEB, 05. ETH1 (7.18, 8.38).
+#197 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2856: HI3535DMEB, 05. ETH1 (1.86, 8.55).
+#198 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2857: HI3535DMEB, 05. ETH1 (3.59, 8.55).
+#199 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2855: HI3535DMEB, 05. ETH1 (1.86, 8.65).
+#200 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2858: HI3535DMEB, 05. ETH1 (3.59, 8.65).
+#201 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2863: HI3535DMEB, 05. ETH1 (7.11, 9.20).
+#202 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2944: HI3535DMEB, 05. ETH1 (8.65, 9.20).
+#203 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2861: HI3535DMEB, 05. ETH1 (6.94, 10.08).
+#204 WARNING(ORCAP-36030): Value of Property "DEVICE" missing from instance R2862: HI3535DMEB, 05. ETH1 (8.58, 10.08).
+#205 WARNING(ORCAP-36006): Part Name "TRNSFMR 67115100_0_CHOKE_COIL_DLW21SN900SQ2L" is renamed to "TRNSFMR 67115100_0_CHOKE_COIL_D".
+#206 WARNING(ORCAP-36006): Part Name "DS8008_1_SLP2510P8_NC/RCLAMP0524PA/ESD5304/TPD4E02B04DQAR" is renamed to "DS8008_1_SLP2510P8_NC/RCLAMP052".
+#207 WARNING(ORCAP-36006): Part Name "DS8008_2_SLP2510P8_NC/RCLAMP0524PA/ESD5304/TPD4E02B04DQAR" is renamed to "DS8008_2_SLP2510P8_NC/RCLAMP052".
+#208 WARNING(ORCAP-36006): Part Name "FMB3904_1_SSOT-6L_FMB3904 DUAL NPN" is renamed to "FMB3904_1_SSOT-6L_FMB3904 DUAL".
+#209 WARNING(ORCAP-36006): Part Name "TPS54383PWP_HTSSOP14_TPS54383PWP" is renamed to "TPS54383PWP_HTSSOP14_TPS54383PW".
+#210 WARNING(ORCAP-36006): Part Name "WM-294_0_WIFI_BT_R_RL-UM12BS-8188EUS" is renamed to "WM-294_0_WIFI_BT_R_RL-UM12BS-81".
+#211 WARNING(ORCAP-36006): Part Name "DS8008_4_SOT23-5_PT5108E23E-33/RT9013-33B" is renamed to "DS8008_4_SOT23-5_PT5108E23E-33/".
+#212 ERROR(ORCAP-36001): Conflicting values of Source Part names found on U4(HI3535_3A) and U3(HI3535_1A) for part "HI3535".
+#213 WARNING(ORCAP-36006): Part Name "CRYSTAL DIP DT38 R_2.A_5032-12M_12M/20PF" is renamed to "CRYSTAL DIP DT38 R_2.A_5032-12M".
+#214 WARNING(ORCAP-36006): Part Name "CRYSTAL DIP DT38 R_2.A_CM315D_32.768K" is renamed to "CRYSTAL DIP DT38 R_2.A_CM315D_3".
+#215 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.

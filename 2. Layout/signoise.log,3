@@ -1,0 +1,15 @@
+INFO: Loaded existing interconnect file 'E:\Lab209B1\mbedComputer\Hi3535\Development\Dev board\hi3535\senior_thesis\2. Layout\interconn.iml'
+INFO: Loaded existing interconnect file 'F:\Cadence\SPB_17.0\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_0S_1R_1
+INFO: Executing command: bem2d 0 "C:/Users/Khanh/AppData/Local/Temp/#Taaaaaj05084.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_2
+INFO: Executing command: bem2d 0 "C:/Users/Khanh/AppData/Local/Temp/#Taaaaak05084.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_3
+INFO: Executing command: bem2d 0 "C:/Users/Khanh/AppData/Local/Temp/#Taaaaal05084.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_4
+INFO: Executing command: bem2d 0 "C:/Users/Khanh/AppData/Local/Temp/#Taaaaam05084.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_5
+INFO: Executing command: bem2d 0 "C:/Users/Khanh/AppData/Local/Temp/#Taaaaar05084.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_6
+INFO: Executing command: bem2d 0 "C:/Users/Khanh/AppData/Local/Temp/#Taaaaas05084.in" 0.00127

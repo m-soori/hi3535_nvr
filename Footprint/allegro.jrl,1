@@ -1,0 +1,39 @@
+\t (00:00:06) allegro 17.0 S002 (v17-0-118L) Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Thu Dec 07 17:26:46 2017
+\t (00:00:06)         Host=DESKTOP-DU00OF9 User=Khanh Pid=2192 CPUs=4
+\t (00:00:06) CmdLine= G:\Cadence\SPB_17.0\tools\bin\allegro.exe G:\Cadence\Data\Library\Footprint\block2.dra
+\t (00:00:06) 
+\t (00:00:08) Opening existing design...
+\i (00:00:17) fillin yes 
+\d (00:00:17) Design opened: G:/Cadence/Data/Library/Footprint/block2.dra
+\i (00:00:18) trapsize 1978
+\i (00:00:18) trapsize 1897
+\i (00:00:18) trapsize 1989
+\i (00:00:18) trapsize 2078
+\i (00:00:18) trapsize 1530
+\i (00:00:18) trapsize 2214
+\i (00:00:18) generaledit 
+\i (00:00:46) pick grid 1.7875 4.0830
+\t (00:00:46) last pick:  2.5400 5.0800
+\i (00:00:47) roam start
+\i (00:00:47) roam y 96
+\i (00:00:47) roam y 112
+\i (00:00:47) roam end
+\i (00:00:51) trapsize 2209
+\i (00:00:51) trapsize 1750
+\i (00:00:51) trapsize 1608
+\i (00:00:52) trapsize 1750
+\i (00:00:53) trapsize 2214
+\i (00:00:53) trapsize 1682
+\i (00:00:54) roam start
+\i (00:00:54) roam y -80
+\i (00:00:54) roam y -96
+\i (00:00:54) roam y -80
+\i (00:00:55) roam y -32
+\i (00:00:55) roam end
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 10.0908 -1.1130
+\i (00:00:55) trapsize 3365
+\i (00:00:56) exit 
+\t (00:00:57)     Journal end - Thu Dec 07 17:27:37 2017

@@ -24,8 +24,9 @@
     (BOM_View_Output "FALSE")
     (Netlist_TAB "0")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory" "E:\SENIOR_THESIS\1. SCHEMATIC\ALLEGRO")
-    ("View Allegro Netlist Files" "TRUE")
+    ("Allegro Netlist Directory"
+       "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\2. LAYOUT")
+    ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
     ("Allegro Netlist Output Board File" "allegro\HI3535DMEB_VER_A_SCH.brd")
@@ -138,42 +139,26 @@
         (Placement "44 0 1 0 505 -8 -31 0 292 0 351"))
       (Tab 0))
     (Doc
-      (Type "TextFile")
+      (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1264 78 329"))
-      (Path "E:\SENIOR_THESIS\1. SCHEMATIC\ALLEGRO\pstxprt.dat")
-      (Scroll "0"))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1186 0 251"))
-      (Path "E:\SENIOR_THESIS\1. SCHEMATIC\ALLEGRO\pstchip.dat")
-      (Scroll "51"))
+        (Placement "44 0 1 -1 -1 -8 -31 104 1290 104 355")
+        (Scroll "-331 0")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path
+         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "22. UART & Debug"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1264 78 329")
-        (Scroll "0 0")
-        (Zoom "100")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1224 78 449")
+        (Scroll "1294 699")
+        (Zoom "128")
         (Occurrence "/"))
-      (Path "E:\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
+      (Path
+         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
-      (Page "18. Power"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1238 52 303")
-        (Scroll "-157 0")
-        (Zoom "43")
-        (Occurrence "/"))
-      (Path "E:\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
-      (Schematic "HI3535DMEB")
-      (Page "23. Wireless"))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1290 104 355"))
-      (Path "E:\SENIOR_THESIS\1. SCHEMATIC\ALLEGRO\pstxnet.dat")
-      (Scroll "0")))
-  (MPSSessionName "Hp")
+      (Page "23. Wireless")))
+  (MPSSessionName "Khanh")
   (ISPCBBASICLICENSE "false"))

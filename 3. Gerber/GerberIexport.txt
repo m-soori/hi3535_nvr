@@ -1,0 +1,48 @@
+I/ EXPORT LAYER FILES
+1. Manufacture -> Artwork...
+2. Add these film layers
+- BOTTOM:
+	- BOARD GEOMETRY/ OUTLINE
+	- ETCH/ BOTTOM
+	- PIN/ BOTTOM
+	- VIA CLASS/ BOTTOM
+- DRILL_DIMENSSION:
+	- MANUFACTORING/ NCDRILL_LEGEND
+	- MANUFACTORING/ NCDRILL_FIGURE
+	- MANUFACTURING/ NCLEGEND-1-2
+	- BOARD GEOMETRY/ OUTLINE
+	- BOARD GEOMETRY/ DIMENSION
+- PASTEMASK_BOT:
+	- PIN/PASTEMASK_BOTTOM
+	- PACKAGE GEOMETRY/ PASTEMASK_BOTTOM
+	- BOARD GEOMETRY/ OUTLINE
+- SILK_BOT:
+	- REFDES/SILKSCREEN_BOTTOM
+	- PACKAGE GEOMETRY/ SILKSCREEN_BOTTOM
+	- BOARD GEOMETRY/ OUTLINE
+	- BOARD GEOMETRY/ SILKSCREEN_BOTTOM
+- SOLDERMASK_BOTTOM:
+	- PIN/ SOLDERMASK_BOTTOM
+	- (VIA/ SOLDERMASK_BOTTOM)
+	- PACKAGE GEOMETRY/ SOLDERMASK_BOTTOM
+	- BOARD_GEOMETRY/ OUTLINE
+	- BOARD_GEOMETRY/ SOLDERMASK_BOTTOM
+- Same with TOP
+- OUTLINE: BOARD GEOMETRY/ OUTLINE
+3. Set the "Undefined line width" as 6.00 for every film.
+4. Check other General Parameters according to your requirement.
+- Film size limits
+- Gerber RS274X
+- Error action: Abort film
+- Format:
+	- Integer places: 2
+	- Decimal places: 5
+5. Select all and Create Artwork
+6. Check Viewlog
+
+II/ EXPORT DRILL FILES:
+1. Manufacture -> NC -> NC Drill -> "NC Parameters.."
+2. Select "Enhanced Excellon format" and click "Close"
+3. Name the drill file and save it in the same directory as your project
+4. Select "Auto tool select" and "Repeat codes"
+5. Click "Drill" to export the drill file -> Click "Close" to return to the layout

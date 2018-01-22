@@ -1,0 +1,35 @@
+\t (00:00:01) padstack_editor 17.0 S002 (v17-0-118L) Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Dec 07 18:13:31 2017
+\t (00:00:01)         Host=DESKTOP-DU00OF9 User=Khanh Pid=740 CPUs=4
+\t (00:00:01) CmdLine= G:\Cadence\SPB_17.0\tools\bin\padstack_editor.exe G:\Cadence\Data\Library\Footprint\s_r200_70_m200_70_p200_70.pad
+\t (00:00:01) 
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:17) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:29) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:29) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:31) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:37) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:40) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:41) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:00:46) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:52) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:55) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:56) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Layer Name"
+\d (00:00:59) QtSignal GuidedDesignLayersTab LayerCombo CurrentIndexChanged "END LAYER"
+\d (00:01:01) QtSignal GuidedDesignLayersTab LayerCombo CurrentIndexChanged "BEGIN LAYER"
+\d (00:01:08) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:01:09) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:22) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:01:24) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:01:26) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:01:27) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:27) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:27) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:27) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:01:32) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\t (00:01:34)     Journal end - Thu Dec 07 18:15:04 2017

@@ -1,0 +1,212 @@
+\t (00:00:09) allegro 17.0 S002 (v17-0-118L) Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Sun Jan 21 22:45:53 2018
+\t (00:00:09)         Host=DESKTOP-0RJVBAE User=Khanh Pid=8072 CPUs=4
+\t (00:00:09) CmdLine= F:\Cadence\SPB_17.0\tools\bin\allegro.exe E:\Lab209B1\mbedComputer\Hi3535\Development\Dev board\hi3535\senior_thesis\2. Layout\NVR_ver1-6.brd
+\t (00:00:09) 
+\t (00:00:11) Opening existing design...
+\d (00:00:12) Design opened: E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/NVR_ver1-6.brd
+\i (00:00:13) trapsize 144
+\i (00:00:13) trapsize 140
+\i (00:00:13) trapsize 145
+\i (00:00:13) trapsize 121
+\i (00:00:13) trapsize 199
+\i (00:00:14) generaledit 
+\i (00:23:52) zoom out 1 
+\i (00:23:52) setwindow pcb
+\i (00:23:52) zoom out 3338.52 403.16
+\i (00:23:52) trapsize 398
+\i (00:23:52) zoom out 1 
+\i (00:23:52) setwindow pcb
+\i (00:23:52) zoom out 3338.53 403.15
+\i (00:23:52) trapsize 797
+\i (00:23:52) zoom out 1 
+\i (00:23:52) setwindow pcb
+\i (00:23:52) zoom out 3338.52 403.16
+\i (00:23:52) trapsize 1593
+\i (00:23:52) zoom out 1 
+\i (00:23:52) setwindow pcb
+\i (00:23:52) zoom out 3338.52 403.16
+\i (00:23:52) trapsize 3187
+\i (00:23:53) zoom out 1 
+\i (00:23:53) setwindow pcb
+\i (00:23:53) zoom out 3338.52 403.16
+\i (00:23:53) trapsize 6374
+\i (00:23:53) zoom out 1 
+\i (00:23:53) setwindow pcb
+\i (00:23:53) zoom out 3338.53 403.15
+\i (00:23:53) trapsize 12748
+\i (00:23:53) zoom in 1 
+\i (00:23:53) setwindow pcb
+\i (00:23:53) zoom in 3338.52 403.16
+\i (00:23:53) trapsize 6374
+\i (00:24:02) zoom in 1 
+\i (00:24:02) setwindow pcb
+\i (00:24:02) zoom in 6143.07 2328.10
+\i (00:24:02) trapsize 3187
+\i (00:24:02) zoom in 1 
+\i (00:24:02) setwindow pcb
+\i (00:24:02) zoom in 6219.56 2347.23
+\i (00:24:02) trapsize 1593
+\i (00:24:02) zoom out 1 
+\i (00:24:02) setwindow pcb
+\i (00:24:02) zoom out 6222.75 2356.79
+\i (00:24:02) trapsize 3187
+\i (00:24:02) zoom out 1 
+\i (00:24:02) setwindow pcb
+\i (00:24:02) zoom out 6222.75 2356.80
+\i (00:24:02) trapsize 6374
+\i (00:24:03) roam start
+\i (00:24:03) roam x 16
+\i (00:24:03) roam y -128
+\i (00:24:03) roam x 16
+\i (00:24:03) roam y -48
+\i (00:24:03) roam end
+\i (00:24:03) zoom in 1 
+\i (00:24:03) setwindow pcb
+\i (00:24:03) zoom in 6535.98 2731.12
+\i (00:24:03) trapsize 3187
+\i (00:24:03) zoom in 1 
+\i (00:24:03) setwindow pcb
+\i (00:24:03) zoom in 6535.98 2731.12
+\i (00:24:03) trapsize 1593
+\i (00:24:04) drag_start grid 6249.15 2941.47
+\i (00:24:04) move 
+\t (00:24:04) last pick:  6250.00 2940.00
+\t (00:24:06) Moving R7 / RESISTOR_0_R0402_0R / R0402.
+\t (00:24:06) Pick new location for the element(s).
+\i (00:24:06) drag_stop grid 6245.96 2571.78
+\i (00:24:06) generaledit 
+\i (00:24:06) pick grid 6131.23 2813.99
+\t (00:24:06) last pick:  6130.00 2815.00
+\i (00:24:07) drag_start grid 6265.09 2571.78
+\i (00:24:07) move 
+\t (00:24:07) last pick:  6265.00 2570.00
+\t (00:24:07) Moving R7 / RESISTOR_0_R0402_0R / R0402.
+\t (00:24:07) Pick new location for the element(s).
+\i (00:24:08) zoom out 1 
+\i (00:24:08) setwindow pcb
+\i (00:24:08) zoom out 5949.57 2527.16
+\i (00:24:08) trapsize 3187
+\i (00:24:08) zoom out 1 
+\i (00:24:08) setwindow pcb
+\i (00:24:08) zoom out 5911.34 2482.54
+\i (00:24:08) trapsize 6374
+\i (00:24:09) zoom in 1 
+\i (00:24:09) setwindow pcb
+\i (00:24:09) zoom in 4713.03 570.35
+\i (00:24:09) trapsize 3187
+\i (00:24:09) zoom in 1 
+\i (00:24:09) setwindow pcb
+\i (00:24:09) zoom in 4713.03 570.36
+\i (00:24:09) trapsize 1593
+\i (00:24:09) zoom in 1 
+\i (00:24:09) setwindow pcb
+\i (00:24:09) zoom in 5066.79 876.31
+\i (00:24:09) trapsize 797
+\i (00:24:10) zoom out 1 
+\i (00:24:10) setwindow pcb
+\i (00:24:10) zoom out 5068.39 927.30
+\i (00:24:10) trapsize 1593
+\i (00:24:11) zoom out 1 
+\i (00:24:11) setwindow pcb
+\i (00:24:11) zoom out 5068.39 927.31
+\i (00:24:11) trapsize 3187
+\i (00:24:11) drag_stop grid 5151.25 799.82
+\i (00:24:11) generaledit 
+\i (00:24:12) pick grid 5374.34 455.63
+\t (00:24:12) last pick:  5375.00 455.00
+\i (00:36:46) drag_start grid 7783.69 1316.11
+\i (00:36:46) move 
+\t (00:36:46) last pick:  7785.00 1315.00
+\t (00:36:46) Moving U26 / SN74LVC1G125DBVR / SOT23-5B.
+\t (00:36:46) Pick new location for the element(s).
+\i (00:36:49) drag_stop grid 5642.04 436.51
+\i (00:36:49) generaledit 
+\i (00:36:49) zoom in 1 
+\i (00:36:49) setwindow pcb
+\i (00:36:49) zoom in 5648.42 442.88
+\i (00:36:49) trapsize 1593
+\i (00:36:49) zoom in 1 
+\i (00:36:50) setwindow pcb
+\i (00:36:50) zoom in 5648.42 442.89
+\i (00:36:50) trapsize 797
+\i (00:36:50) zoom in 1 
+\i (00:36:50) setwindow pcb
+\i (00:36:50) zoom in 5648.43 442.89
+\i (00:36:50) trapsize 398
+\i (00:36:50) zoom out 1 
+\i (00:36:50) setwindow pcb
+\i (00:36:50) zoom out 5648.43 442.89
+\i (00:36:50) trapsize 797
+\i (00:37:09) zoom out 1 
+\i (00:37:09) setwindow pcb
+\i (00:37:09) zoom out 6123.28 466.79
+\i (00:37:09) trapsize 1593
+\i (00:37:09) zoom out 1 
+\i (00:37:09) setwindow pcb
+\i (00:37:09) zoom out 6123.27 469.98
+\i (00:37:09) trapsize 3187
+\i (00:37:09) zoom out 1 
+\i (00:37:09) setwindow pcb
+\i (00:37:09) zoom out 6116.90 476.35
+\i (00:37:09) trapsize 6374
+\i (00:37:09) roam start
+\i (00:37:09) roam x 128
+\i (00:37:09) roam x 80
+\i (00:37:10) roam x 48
+\i (00:37:10) roam end
+\i (00:37:11) drag_start grid 8282.44 1062.75
+\i (00:37:11) move 
+\t (00:37:11) last pick:  8280.00 1065.00
+\t (00:37:11) Moving S2 / TL3301AF160RG / BUTTON_FSM.
+\t (00:37:11) Pick new location for the element(s).
+\i (00:37:12) drag_stop grid 6956.65 973.52
+\i (00:37:12) generaledit 
+\i (00:37:13) pick grid 7288.10 -59.06
+\t (00:37:13) last pick:  7290.00 -60.00
+\i (00:37:13) zoom in 1 
+\i (00:37:13) setwindow pcb
+\i (00:37:13) zoom in 6433.99 3000.44
+\i (00:37:13) trapsize 3187
+\i (00:37:14) zoom out 1 
+\i (00:37:14) setwindow pcb
+\i (00:37:14) zoom out 6147.16 2866.59
+\i (00:37:14) trapsize 6374
+\i (00:37:15) roam start
+\i (00:37:15) roam x -48
+\i (00:37:15) roam y -176
+\i (00:37:15) roam end
+\i (00:37:16) drag_start grid 5248.44 4566.83
+\i (00:37:16) move 
+\t (00:37:16) last pick:  5250.00 4565.00
+\t (00:37:16) Moving ED1 / ESD_1_SOT23_NC/ESDA6V8UL/AZC199 / SOT23.
+\t (00:37:16) Pick new location for the element(s).
+\i (00:37:17) drag_stop grid 6778.19 2450.67
+\i (00:37:17) generaledit 
+\i (00:37:17) zoom in 1 
+\i (00:37:17) setwindow pcb
+\i (00:37:17) zoom in 6816.43 2692.88
+\i (00:37:17) trapsize 3187
+\i (00:37:18) zoom in 1 
+\i (00:37:18) setwindow pcb
+\i (00:37:18) zoom in 6816.43 2699.26
+\i (00:37:18) trapsize 1593
+\i (00:37:18) drag_start grid 6663.46 2928.72
+\i (00:37:18) move 
+\t (00:37:18) last pick:  6665.00 2930.00
+\t (00:37:18) Moving R13 / RESISTOR_0_R0402_0R / R0402.
+\t (00:37:18) Pick new location for the element(s).
+\i (00:37:19) zoom out 1 
+\i (00:37:19) setwindow pcb
+\i (00:37:19) zoom out 6650.71 2578.15
+\i (00:37:19) trapsize 3187
+\i (00:37:19) zoom out 1 
+\i (00:37:19) setwindow pcb
+\i (00:37:19) zoom out 6599.72 2610.02
+\i (00:37:19) trapsize 6374
+\i (00:37:20) drag_stop grid 6765.45 3438.64
+\i (00:37:20) generaledit 
+\i (01:29:30) exit 
+\e (01:29:30) Do you want to save the changes you made to NVR_ver1-6.brd?
+\i (01:29:32) fillin no 
+\t (01:29:37)     Journal end - Mon Jan 22 00:15:21 2018

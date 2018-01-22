@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.0.0 d001Jan-08-2018 at 17:04:55}
+{ Using PSTWRITER 17.0.0 d001Jan-11-2018 at 16:23:51}
 primitive 'CON2_BAT_CR1220_BAT_3V';
   pin
     '1':
@@ -2975,25 +2975,6 @@ primitive 'RESISTOR_R0402_10K';
     PART_NAME='RESISTOR';
     JEDEC_TYPE='R0402';
     VALUE='10K';
-  end_body;
-end_primitive;
-primitive 'RC_02W750FT';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='R_1';
-    JEDEC_TYPE='SR0402';
-    VALUE='75';
   end_body;
 end_primitive;
 primitive 'RC0603FR_071K13L';

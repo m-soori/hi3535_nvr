@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.0.0 d001Jan-16-2018 at 17:02:41}
+{ Using PSTWRITER 17.0.0 d001Jan-11-2018 at 16:36:54}
 primitive 'CON2_BAT_CR1220_BAT_3V';
   pin
     '1':
@@ -1119,25 +1119,6 @@ primitive 'CAPC-SM0402_4_SMC0402_DISCRET_1';
     JEDEC_TYPE='SMC0402';
     CLASS='DISCRETE';
     VALUE='33pF';
-  end_body;
-end_primitive;
-primitive 'C_SC0603_10NF';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='C';
-    JEDEC_TYPE='SC0603';
-    VALUE='10NF';
   end_body;
 end_primitive;
 primitive 'C1608X5R0J106MT0A0E_A';
@@ -2602,6 +2583,25 @@ primitive 'RC0402JR_0710R';
     VALUE='10';
   end_body;
 end_primitive;
+primitive 'RC0402JR_070R';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    PART_NAME='R_1';
+    JEDEC_TYPE='SR0402';
+    VALUE='0';
+  end_body;
+end_primitive;
 primitive 'RESISTOR_4_R0402_10K';
   pin
     '1':
@@ -2731,6 +2731,25 @@ primitive 'RC0402JR_071KL';
     VALUE='1K';
   end_body;
 end_primitive;
+primitive 'RK73B1ELTP333J';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    PART_NAME='R_1';
+    JEDEC_TYPE='SR0402';
+    VALUE='33K/NC';
+  end_body;
+end_primitive;
 primitive 'RK73H1ETTP4703F';
   pin
     'A':
@@ -2839,25 +2858,6 @@ primitive 'RESISTOR_R0402_NC/10';
     PART_NAME='RESISTOR';
     JEDEC_TYPE='R0402';
     VALUE='NC/10';
-  end_body;
-end_primitive;
-primitive 'RC0402JR_070R';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='R_1';
-    JEDEC_TYPE='SR0402';
-    VALUE='0';
   end_body;
 end_primitive;
 primitive 'RC0603JR_071K';
@@ -3652,101 +3652,6 @@ primitive 'RES-SM0402_2_SMR0402_DISCRETE_2';
     VALUE='240R';
   end_body;
 end_primitive;
-primitive 'R_SR0603_1K';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='SR0603';
-    VALUE='1K';
-  end_body;
-end_primitive;
-primitive 'R_SR0603_0';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='SR0603';
-    VALUE='0';
-  end_body;
-end_primitive;
-primitive 'R_SR0603_0/NC';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='SR0603';
-    VALUE='0/NC';
-  end_body;
-end_primitive;
-primitive 'R_SR0603_4.7K';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='SR0603';
-    VALUE='4.7K';
-  end_body;
-end_primitive;
-primitive 'R_SR0603_1K/NC';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='SR0603';
-    VALUE='1K/NC';
-  end_body;
-end_primitive;
 primitive 'RESISTOR_R0402_510R';
   pin
     '1':
@@ -3909,35 +3814,6 @@ primitive 'PSW3_B_PSW3-RA_PSW3_B';
     PART_NAME='PSW3_B';
     JEDEC_TYPE='PSW3-RA';
     VALUE='PSW3_B';
-  end_body;
-end_primitive;
-primitive 'TL3301AF160RG';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    '2':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    '3':
-      PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    '4':
-      PIN_NUMBER='(4)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='MSW4';
-    JEDEC_TYPE='button_fsm';
-    VALUE='MSW4';
   end_body;
 end_primitive;
 primitive 'SIM_RIDER_2_MICRO_SIM_CR-201-6P';
@@ -5003,75 +4879,6 @@ primitive 'DS8008_4_SOT23-5_PT5108E23E-33/';
     PART_NAME='DS8008_4';
     JEDEC_TYPE='SOT23-5';
     VALUE='PT5108E23E-33/RT9013-33B';
-  end_body;
-end_primitive;
-primitive 'ADM706RAR';
-  pin
-    'M\R\':
-      PIN_NUMBER='(1)';
-      OUTPUT_LOAD='(*)';
-    'VCC':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-    'GND':
-      PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'PFI':
-      PIN_NUMBER='(4)';
-      INPUT_LOAD='(*)';
-    'P\F\O\':
-      PIN_NUMBER='(5)';
-      OUTPUT_LOAD='(*)';
-    'R\E\S\E\T\':
-      PIN_NUMBER='(7)';
-      INPUT_LOAD='(*)';
-    'W\D\O\':
-      PIN_NUMBER='(8)';
-      OUTPUT_LOAD='(*)';
-    'WDI':
-      PIN_NUMBER='(6)';
-      INPUT_LOAD='(*)';
-  end_pin;
-  body
-    PART_NAME='ADM706SAR_0';
-    JEDEC_TYPE='SOP8-50-150';
-    VALUE='ADM706SAR';
-  end_body;
-end_primitive;
-primitive 'SN74LVC1G125DBVR';
-  pin
-    'O\E\':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'A':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'GND':
-      PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'Y':
-      PIN_NUMBER='(4)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'VCC':
-      PIN_NUMBER='(5)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='SN74LVC1G125Q-Q1_0';
-    JEDEC_TYPE='SOT23-5B';
-    VALUE='SN74LVC1G125Q-Q1';
   end_body;
 end_primitive;
 primitive 'HI3535';

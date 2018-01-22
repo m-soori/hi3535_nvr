@@ -1,0 +1,3 @@
+Begin layer = End layer = internal layer + 10
+Thermal reliefs = Antipads = Regular pads + 10
+Soldermask Top = Regular Pad Top + 10

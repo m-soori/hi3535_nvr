@@ -1,0 +1,2282 @@
+Date and Time : 11/30/17 14:03:11
+
+--------------------------------------------------
+Checking Schematic:  HI3535DMEB
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict J1,1  Bidirectional Connected to Power
+                    HI3535DMEB, 15. VO  (4.42, 7.45) 
+WARNING(ORCAP-1829): Possible pin type conflict J9,1  Bidirectional Connected to Power
+                    HI3535DMEB, 15. VO  (5.38, 7.38) 
+WARNING(ORCAP-1829): Possible pin type conflict J10,1  Bidirectional Connected to Power
+                    HI3535DMEB, 15. VO  (3.24, 7.37) 
+WARNING(ORCAP-1829): Possible pin type conflict J13,1  Bidirectional Connected to Power
+                    HI3535DMEB, 15. VO  (2.11, 7.45) 
+WARNING(ORCAP-1829): Possible pin type conflict C2896,B  Bidirectional Connected to Power
+                    HI3535DMEB, 14. HDMI  (6.00, 4.00) 
+WARNING(ORCAP-1829): Possible pin type conflict R2924,B  Bidirectional Connected to Power
+                    HI3535DMEB, 14. HDMI  (5.80, 4.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C432,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (3.38, 4.94) 
+WARNING(ORCAP-1829): Possible pin type conflict C193,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (2.95, 4.94) 
+WARNING(ORCAP-1829): Possible pin type conflict R62,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (10.51, 2.95) 
+WARNING(ORCAP-1829): Possible pin type conflict R66,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (10.21, 2.95) 
+WARNING(ORCAP-1829): Possible pin type conflict R63,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (10.36, 2.95) 
+WARNING(ORCAP-1829): Possible pin type conflict C427,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.68, 4.59) 
+WARNING(ORCAP-1829): Possible pin type conflict C426,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.93, 4.59) 
+WARNING(ORCAP-1829): Possible pin type conflict R40,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.73, 3.59) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_HDMITX1  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 5.29) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_VDAC3  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 5.09) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_VDAC1  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 4.89) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_VDAC2  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 4.99) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_HDMITX3  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 5.49) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_HDMITX5  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_HDMITX7  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 5.89) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_HDMITX6  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 5.79) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_HDMITX4  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 5.59) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_HDMITX2  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.08, 5.39) 
+WARNING(ORCAP-1829): Possible pin type conflict C434,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (3.12, 5.94) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,AVSS_PLL_HDMITX  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (3.78, 5.89) 
+WARNING(ORCAP-1829): Possible pin type conflict C430,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (3.48, 5.93) 
+WARNING(ORCAP-1829): Possible pin type conflict R69,A  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (2.98, 3.84) 
+WARNING(ORCAP-1829): Possible pin type conflict R70,A  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (2.98, 3.99) 
+WARNING(ORCAP-1829): Possible pin type conflict R301,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (7.98, 2.24) 
+WARNING(ORCAP-1829): Possible pin type conflict C419,B  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (8.27, 4.59) 
+WARNING(ORCAP-1829): Possible pin type conflict J2,GND  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (8.16, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,GND  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.53, 2.55) 
+WARNING(ORCAP-1829): Possible pin type conflict C210,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.67, 3.05) 
+WARNING(ORCAP-1829): Possible pin type conflict C164,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.38, 3.05) 
+WARNING(ORCAP-1829): Possible pin type conflict R21,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (1.83, 3.05) 
+WARNING(ORCAP-1829): Possible pin type conflict C165,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.23, 2.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C173,2  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.68, 2.77) 
+WARNING(ORCAP-1829): Possible pin type conflict R97,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.98, 2.62) 
+WARNING(ORCAP-1829): Possible pin type conflict R26,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (1.79, 6.22) 
+WARNING(ORCAP-1829): Possible pin type conflict C168,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.34, 6.22) 
+WARNING(ORCAP-1829): Possible pin type conflict R96,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.14, 5.86) 
+WARNING(ORCAP-1829): Possible pin type conflict C169,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.40, 5.91) 
+WARNING(ORCAP-1829): Possible pin type conflict C174,2  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.85, 5.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,GND  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.49, 5.72) 
+WARNING(ORCAP-1829): Possible pin type conflict C209,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.68, 6.22) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,P4  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (17.31, 2.04) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,P7  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (17.31, 2.34) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,P1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (17.31, 1.74) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,M1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (17.31, 1.54) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,M2  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (17.31, 2.54) 
+WARNING(ORCAP-1829): Possible pin type conflict J2,GND_DRAIN  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (8.16, 5.70) 
+WARNING(ORCAP-1829): Possible pin type conflict J2,S1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (8.16, 6.20) 
+WARNING(ORCAP-1829): Possible pin type conflict J2,S3  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (8.16, 6.40) 
+WARNING(ORCAP-1829): Possible pin type conflict J2,S2  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (8.16, 6.30) 
+WARNING(ORCAP-1829): Possible pin type conflict J2,S4  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (8.16, 6.50) 
+WARNING(ORCAP-1829): Possible pin type conflict J4,M2  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (7.97, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict J4,A4  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (7.97, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict J4,M1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (7.97, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict R34,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (11.75, 7.72) 
+WARNING(ORCAP-1829): Possible pin type conflict R33,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (11.75, 7.92) 
+WARNING(ORCAP-1829): Possible pin type conflict R79,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (1.75, 9.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R80,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (1.75, 9.40) 
+WARNING(ORCAP-1829): Possible pin type conflict R81,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (1.75, 9.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R82,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (1.75, 9.00) 
+WARNING(ORCAP-1829): Possible pin type conflict R28,B  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (8.82, 3.84) 
+WARNING(ORCAP-1829): Possible pin type conflict R30,B  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (11.09, 3.81) 
+WARNING(ORCAP-1829): Possible pin type conflict R74,B  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (13.31, 3.82) 
+WARNING(ORCAP-1829): Possible pin type conflict R64,B  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (9.20, 8.37) 
+WARNING(ORCAP-1829): Possible pin type conflict R20,B  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (3.49, 10.71) 
+WARNING(ORCAP-1829): Possible pin type conflict R83,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (3.96, 5.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C204,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (8.94, 10.41) 
+WARNING(ORCAP-1829): Possible pin type conflict C160,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (9.44, 10.41) 
+WARNING(ORCAP-1829): Possible pin type conflict C69,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (1.63, 8.75) 
+WARNING(ORCAP-1829): Possible pin type conflict R115,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (10.45, 10.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,VSS2  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (11.30, 10.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,VSS1  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (11.30, 10.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C162,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (9.70, 10.71) 
+WARNING(ORCAP-1829): Possible pin type conflict C161,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (9.95, 10.71) 
+WARNING(ORCAP-1829): Possible pin type conflict Q1,GND  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (5.25, 8.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C408,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (3.60, 8.85) 
+WARNING(ORCAP-1829): Possible pin type conflict C74,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (1.39, 4.70) 
+WARNING(ORCAP-1829): Possible pin type conflict X1,GND1  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (1.59, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict C44,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (1.39, 3.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C135,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (2.64, 2.05) 
+WARNING(ORCAP-1829): Possible pin type conflict C136,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (2.64, 2.75) 
+WARNING(ORCAP-1829): Possible pin type conflict R84,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (3.84, 3.05) 
+WARNING(ORCAP-1829): Possible pin type conflict X1,GND2  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (2.59, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,AVSS_EFUSE  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.59, 6.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,AVSS_RTC5  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.59, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,AVSS_RTC4  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.59, 5.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,AVSS_RTC3  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.59, 5.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,AVSS_RTC2  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.59, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,AVSS_RTC1  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.59, 5.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C1,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (8.51, 1.85) 
+WARNING(ORCAP-1829): Possible pin type conflict C158,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (3.71, 4.73) 
+WARNING(ORCAP-1829): Possible pin type conflict C159,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (9.19, 10.41) 
+WARNING(ORCAP-1829): Possible pin type conflict C126,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.99, 2.33) 
+WARNING(ORCAP-1829): Possible pin type conflict R107,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.74, 2.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSSQ2  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (10.54, 8.43) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSSQ3  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (10.54, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSSQ1  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (10.54, 8.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSSQ9  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (10.54, 9.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSSQ8  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (10.54, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSSQ7  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (10.54, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSSQ6  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (10.54, 8.83) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSSQ5  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (10.54, 8.73) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSSQ4  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (10.54, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict C200,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (8.16, 6.98) 
+WARNING(ORCAP-1829): Possible pin type conflict R73,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (9.74, 7.13) 
+WARNING(ORCAP-1829): Possible pin type conflict R106,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.60, 2.35) 
+WARNING(ORCAP-1829): Possible pin type conflict C129,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.85, 2.35) 
+WARNING(ORCAP-1829): Possible pin type conflict C118,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.29, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict C117,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.04, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict C14,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.54, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict C114,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.24, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict C113,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.99, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict C112,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.74, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict C111,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.49, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS1  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C110,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.24, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS12  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 8.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS11  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 8.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS10  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.93) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS9  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.83) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS8  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.73) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS7  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.63) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS6  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS5  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.43) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS4  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS3  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.23) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VSS2  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 7.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C115,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.49, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict C116,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.74, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict C124,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.19, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C123,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.94, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C125,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.44, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C13,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.19, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C121,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.44, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C119,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.94, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C120,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.19, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C122,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.69, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C131,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.69, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C130,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.94, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C187,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (6.62, 5.68) 
+WARNING(ORCAP-1829): Possible pin type conflict R103,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.39, 1.75) 
+WARNING(ORCAP-1829): Possible pin type conflict C95,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.64, 1.75) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSQ1  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (9.46, 7.54) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSQ2  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (9.46, 7.64) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSQ9  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (9.46, 8.34) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSQ8  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (9.46, 8.24) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSQ7  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (9.46, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSQ6  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (9.46, 8.04) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSQ5  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (9.46, 7.94) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSQ4  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (9.46, 7.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSQ3  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (9.46, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict R72,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (8.66, 6.34) 
+WARNING(ORCAP-1829): Possible pin type conflict C199,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (7.47, 6.19) 
+WARNING(ORCAP-1829): Possible pin type conflict C99,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.62, 1.75) 
+WARNING(ORCAP-1829): Possible pin type conflict R102,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.37, 1.75) 
+WARNING(ORCAP-1829): Possible pin type conflict C12,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.46, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict C87,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.21, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict C106,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.16, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict C105,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.91, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict C104,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.66, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict C103,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.41, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS1  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 6.24) 
+WARNING(ORCAP-1829): Possible pin type conflict C102,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.16, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS12  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 7.34) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS11  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 7.24) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS10  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 7.14) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS9  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 7.04) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS8  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 6.94) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS7  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 6.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS6  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 6.74) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS5  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 6.64) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS4  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 6.54) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS3  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 6.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS2  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 6.34) 
+WARNING(ORCAP-1829): Possible pin type conflict C107,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.41, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict C108,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.66, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict C109,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.96, 6.09) 
+WARNING(ORCAP-1829): Possible pin type conflict C94,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.36, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C93,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.11, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C90,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.36, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C88,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.86, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C89,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.11, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C91,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.61, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C92,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.86, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C11,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.06, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C101,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.61, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C100,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.86, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C186,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (6.37, 4.89) 
+WARNING(ORCAP-1829): Possible pin type conflict R41,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (2.39, 4.32) 
+WARNING(ORCAP-1829): Possible pin type conflict C141,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (8.61, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C223,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.41, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C222,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.16, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C221,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.91, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C183,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.61, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C184,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.36, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C143,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.11, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C142,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (8.86, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C64,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (12.51, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C63,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (12.21, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C62,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (11.91, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C61,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (11.61, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C60,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (11.31, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C59,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (11.06, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C58,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.81, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C57,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.51, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C56,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.21, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C55,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.91, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C54,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.66, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C53,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.41, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C52,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.11, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C51,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (8.86, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C50,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (8.61, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C65,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (12.81, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C66,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (13.11, 3.69) 
+WARNING(ORCAP-1829): Possible pin type conflict R71,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (2.53, 9.02) 
+WARNING(ORCAP-1829): Possible pin type conflict C185,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (7.94, 8.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C67,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (7.43, 8.75) 
+WARNING(ORCAP-1829): Possible pin type conflict C68,B  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (7.68, 8.75) 
+WARNING(ORCAP-1829): Possible pin type conflict C45,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.84, 8.58) 
+WARNING(ORCAP-1829): Possible pin type conflict C41,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.09, 8.58) 
+WARNING(ORCAP-1829): Possible pin type conflict C47,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.34, 8.58) 
+WARNING(ORCAP-1829): Possible pin type conflict C48,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.09, 8.58) 
+WARNING(ORCAP-1829): Possible pin type conflict C49,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.84, 8.58) 
+WARNING(ORCAP-1829): Possible pin type conflict C19,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.59, 8.58) 
+WARNING(ORCAP-1829): Possible pin type conflict C26,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.34, 8.58) 
+WARNING(ORCAP-1829): Possible pin type conflict C220,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.09, 8.58) 
+WARNING(ORCAP-1829): Possible pin type conflict C46,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.59, 8.58) 
+WARNING(ORCAP-1829): Possible pin type conflict C32,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.09, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C33,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.39, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C31,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.79, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C30,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.49, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C29,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.19, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C28,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.89, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C202,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.29, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C201,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (1.99, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C36,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.68, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS120  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS121  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS122  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS123  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS124  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS125  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS126  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS127  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS128  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS129  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS130  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS131  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS132  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS133  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS134  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS135  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS136  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 6.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS137  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS138  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS139  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS140  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS141  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS142  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS143  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS144  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS146  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS147  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 8.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS148  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS145  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 7.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS113  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS111  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS75  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 0.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS76  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 0.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS77  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS78  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS79  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS80  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS81  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS82  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS83  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS84  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS85  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS86  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 1.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS87  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS88  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS89  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS90  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS91  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS92  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS93  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS94  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS95  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS96  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 2.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS97  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS98  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS99  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS100  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS101  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS102  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS103  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS104  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS105  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS106  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 3.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS107  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS108  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS109  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS110  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS112  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS114  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS115  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS116  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 4.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS117  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS118  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS119  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (15.19, 5.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS46  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS47  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS45  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS44  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS43  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS42  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS41  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS40  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS38  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS37  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS36  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS35  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS34  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS33  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS32  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS31  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS30  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS29  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS28  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS27  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS26  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS25  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS24  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS23  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 3.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS22  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS21  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS20  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS19  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS18  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS17  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS16  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS15  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS14  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS13  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 2.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS12  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS11  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS10  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS9  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 0.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 0.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS3  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS4  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS5  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS6  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS7  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS8  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 1.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS39  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 4.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS48  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS49  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS50  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS51  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS52  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 5.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS53  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS54  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS55  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS56  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS57  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS58  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS59  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS60  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS61  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS62  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 6.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS63  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS64  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS65  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS66  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS67  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS68  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS69  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS70  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS71  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS72  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 7.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS73  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 8.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U7C,VSS74  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (12.09, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C40,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.14, 3.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C179,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.39, 3.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C178,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.89, 3.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C39,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.64, 3.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,AVSS_PLL2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 3.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,AVSS_PLL1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 3.43) 
+WARNING(ORCAP-1829): Possible pin type conflict C195,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.74, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C194,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.74, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C16,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.24, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C175,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (1.99, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C176,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.24, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C177,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.49, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C15,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.99, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C229,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.49, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C230,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.74, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C3,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.99, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C4,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.24, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C5,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.49, 10.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C42,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.89, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C7,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.89, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C76,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.64, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C75,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.39, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C8,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C137,2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (6.05, 10.55) 
+WARNING(ORCAP-1829): Possible pin type conflict C140,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (6.54, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C180,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (6.84, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C181,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.14, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C182,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.39, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C6,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.64, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C25,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.14, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C24,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.39, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C23,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.64, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C22,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.89, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C21,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (10.14, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C138,2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (6.29, 10.55) 
+WARNING(ORCAP-1829): Possible pin type conflict C206,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (10.39, 10.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C2096,A  Bidirectional Connected to Power
+                    HI3535DMEB, UART & Debug  (1.60, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C2097,B  Bidirectional Connected to Power
+                    HI3535DMEB, UART & Debug  (2.20, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U83,GND  Power Connected to Bidirectional
+                    HI3535DMEB, UART & Debug  (3.10, 3.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C2173,B  Bidirectional Connected to Power
+                    HI3535DMEB, UART & Debug  (3.50, 1.00) 
+WARNING(ORCAP-1829): Possible pin type conflict R121,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (16.03, 6.49) 
+WARNING(ORCAP-1829): Possible pin type conflict R119,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (16.03, 6.59) 
+WARNING(ORCAP-1829): Possible pin type conflict R241,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (9.02, 10.47) 
+WARNING(ORCAP-1829): Possible pin type conflict R247,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (3.94, 8.55) 
+WARNING(ORCAP-1829): Possible pin type conflict R244,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (3.94, 8.65) 
+WARNING(ORCAP-1829): Possible pin type conflict R242,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (9.01, 9.59) 
+WARNING(ORCAP-1829): Possible pin type conflict C268,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (13.90, 8.68) 
+WARNING(ORCAP-1829): Possible pin type conflict C275,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (14.40, 8.68) 
+WARNING(ORCAP-1829): Possible pin type conflict C267,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (14.15, 8.68) 
+WARNING(ORCAP-1829): Possible pin type conflict C274,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (19.34, 8.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C265,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (19.09, 8.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C263,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (18.34, 8.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C266,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (18.59, 8.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C264,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (18.84, 8.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C2901,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (3.24, 6.26) 
+WARNING(ORCAP-1829): Possible pin type conflict C2903,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (3.04, 6.26) 
+WARNING(ORCAP-1829): Possible pin type conflict C281,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (4.34, 6.26) 
+WARNING(ORCAP-1829): Possible pin type conflict C2905,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (4.75, 6.26) 
+WARNING(ORCAP-1829): Possible pin type conflict C280,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (2.59, 7.32) 
+WARNING(ORCAP-1829): Possible pin type conflict C2900,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (3.30, 7.33) 
+WARNING(ORCAP-1829): Possible pin type conflict C2907,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (2.94, 7.32) 
+WARNING(ORCAP-1829): Possible pin type conflict C270,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (3.59, 5.37) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,GND1  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (8.34, 5.46) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,GND2  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (8.34, 5.56) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,GND3  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (8.34, 5.66) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,EGND  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (8.34, 5.76) 
+WARNING(ORCAP-1829): Possible pin type conflict R275,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (9.14, 3.16) 
+WARNING(ORCAP-1829): Possible pin type conflict C279,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (8.63, 4.45) 
+WARNING(ORCAP-1829): Possible pin type conflict C2906,B  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (9.04, 4.46) 
+WARNING(ORCAP-1829): Possible pin type conflict C2904,A  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (10.14, 1.41) 
+WARNING(ORCAP-1829): Possible pin type conflict C2902,A  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (10.14, 0.61) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXD6  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (5.84, 2.86) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXD4  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (5.84, 2.66) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXD5  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (5.84, 2.76) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXD7  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (5.84, 2.96) 
+WARNING(ORCAP-1829): Possible pin type conflict R23,A  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (4.25, 3.16) 
+WARNING(ORCAP-1829): Possible pin type conflict C2897,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (5.77, 4.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C2898,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (7.00, 4.20) 
+WARNING(ORCAP-1829): Possible pin type conflict D2103,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (5.70, 5.80) 
+WARNING(ORCAP-1829): Possible pin type conflict R2927,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (6.90, 7.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C167,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (12.00, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C165,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (12.30, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C2907,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (12.60, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C250,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (12.90, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C166,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (14.10, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C85,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (14.40, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C2908,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (14.60, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C251,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (14.90, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict D2104,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (10.90, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2911,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (9.90, 6.30) 
+WARNING(ORCAP-1829): Possible pin type conflict R2936,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (9.90, 7.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C2913,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (4.41, 5.89) 
+WARNING(ORCAP-1829): Possible pin type conflict C2914,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (4.10, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2915,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (3.90, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2916,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (3.70, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2917,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (3.50, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2918,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (2.05, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2919,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (1.85, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2920,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (1.60, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict R2937,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (1.30, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2921,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (6.60, 4.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C2906,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (6.40, 8.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C2912,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (10.30, 8.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C159,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (8.90, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C161,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (9.10, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C160,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (10.50, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C198,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (11.10, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C78,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (10.80, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C249,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (11.40, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C79,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (9.30, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C248,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (9.50, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C150,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (3.33, 3.11) 
+WARNING(ORCAP-1829): Possible pin type conflict C9,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (4.73, 3.51) 
+WARNING(ORCAP-1829): Possible pin type conflict C77,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (3.93, 3.11) 
+WARNING(ORCAP-1829): Possible pin type conflict C228,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (3.63, 3.11) 
+WARNING(ORCAP-1829): Possible pin type conflict C76,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (5.23, 3.51) 
+WARNING(ORCAP-1829): Possible pin type conflict C2927,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (6.50, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict R147,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (8.00, 4.70) 
+WARNING(ORCAP-1829): Possible pin type conflict C158,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (8.60, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C72,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (9.00, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C156,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (8.80, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C242,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (9.20, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C197,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.80, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict R22,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (7.35, 10.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C226,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (6.70, 10.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R11,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (2.80, 9.10) 
+WARNING(ORCAP-1829): Possible pin type conflict C89,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.30, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R126,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (8.30, 8.80) 
+WARNING(ORCAP-1829): Possible pin type conflict J3,A1  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (2.65, 10.15) 
+WARNING(ORCAP-1829): Possible pin type conflict J3,A3  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (2.65, 9.95) 
+WARNING(ORCAP-1829): Possible pin type conflict C196,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (5.70, 10.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C157,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.20, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict D1,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (6.10, 10.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C71,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (6.40, 10.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C223,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (7.00, 10.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C73,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.50, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C20,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (3.05, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C227,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (3.35, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C74,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (3.65, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C75,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (4.95, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C70,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (4.45, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C243,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (11.10, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict R163,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (8.10, 4.70) 
+WARNING(ORCAP-1829): Possible pin type conflict C195,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.85, 6.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C68,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.65, 6.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C245,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (11.15, 6.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C153,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (8.65, 6.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C69,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (9.05, 6.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C155,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (8.85, 6.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C244,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (9.25, 6.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C154,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.35, 6.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C66,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (5.00, 7.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C67,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (3.70, 6.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C8,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (4.50, 7.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C225,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (3.40, 6.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C148,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (3.10, 6.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C92,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (6.30, 3.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C88,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.40, 8.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C2926,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (6.50, 7.70) 
+WARNING(ORCAP-1829): Possible pin type conflict C77,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (9.92, 10.36) 
+WARNING(ORCAP-1829): Possible pin type conflict C139,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (8.60, 8.02) 
+WARNING(ORCAP-1829): Possible pin type conflict C17,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (13.94, 2.55) 
+WARNING(ORCAP-1829): Possible pin type conflict R126,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (2.90, 4.12) 
+WARNING(ORCAP-1829): Possible pin type conflict C80,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (2.91, 10.27) 
+WARNING(ORCAP-1829): Possible pin type conflict C191,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (2.71, 10.27) 
+WARNING(ORCAP-1829): Possible pin type conflict R78,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (13.95, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict C81,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (6.76, 10.31) 
+WARNING(ORCAP-1829): Possible pin type conflict C82,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (6.56, 10.31) 
+WARNING(ORCAP-1829): Possible pin type conflict C192,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (6.36, 10.31) 
+WARNING(ORCAP-1829): Possible pin type conflict C18,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (9.52, 10.36) 
+WARNING(ORCAP-1829): Possible pin type conflict C78,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (9.72, 10.36) 
+WARNING(ORCAP-1829): Possible pin type conflict C86,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (19.83, 9.06) 
+WARNING(ORCAP-1829): Possible pin type conflict C83,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (19.42, 9.06) 
+WARNING(ORCAP-1829): Possible pin type conflict C84,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (19.62, 9.06) 
+WARNING(ORCAP-1829): Possible pin type conflict C43,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (9.35, 8.02) 
+WARNING(ORCAP-1829): Possible pin type conflict C10,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (9.10, 8.02) 
+WARNING(ORCAP-1829): Possible pin type conflict C9,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (8.85, 8.02) 
+WARNING(ORCAP-1829): Possible pin type conflict C79,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (3.11, 10.27) 
+WARNING(ORCAP-1829): Possible pin type conflict C70,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (13.12, 9.06) 
+WARNING(ORCAP-1829): Possible pin type conflict C188,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (13.32, 9.06) 
+WARNING(ORCAP-1829): Possible pin type conflict R125,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (19.46, 3.35) 
+WARNING(ORCAP-1829): Possible pin type conflict R57,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (19.46, 3.25) 
+WARNING(ORCAP-1829): Possible pin type conflict R58,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (19.45, 3.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C190,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (16.03, 9.02) 
+WARNING(ORCAP-1829): Possible pin type conflict C73,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (16.23, 9.02) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AVSS_USB2_4  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (18.71, 5.85) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AVSS_USB2_1  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (18.71, 5.55) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AVSS_USB2_3  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (18.71, 5.75) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AVSS_USB2_2  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (18.71, 5.65) 
+WARNING(ORCAP-1829): Possible pin type conflict R76,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (13.87, 2.05) 
+WARNING(ORCAP-1829): Possible pin type conflict R68,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (13.87, 1.94) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AVSS_AC1  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (14.71, 3.45) 
+WARNING(ORCAP-1829): Possible pin type conflict C133,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (13.81, 3.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AVSS_AC2  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (14.71, 3.55) 
+WARNING(ORCAP-1829): Possible pin type conflict C71,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (14.21, 3.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C72,B  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (14.01, 3.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AVSS_AC4  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (14.71, 3.75) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AVSS_AC3  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (14.71, 3.65) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,GND1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (8.50, 5.70) 
+WARNING(ORCAP-1829): Possible pin type conflict C2867,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (10.34, 1.72) 
+WARNING(ORCAP-1829): Possible pin type conflict C2874,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (19.04, 9.77) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,EGND  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (8.50, 6.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C2883,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (3.70, 5.70) 
+WARNING(ORCAP-1829): Possible pin type conflict C2886,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (19.54, 9.77) 
+WARNING(ORCAP-1829): Possible pin type conflict R2944,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (8.95, 9.30) 
+WARNING(ORCAP-1829): Possible pin type conflict R2891,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (9.30, 3.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C2875,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (19.29, 9.77) 
+WARNING(ORCAP-1829): Possible pin type conflict C2868,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (10.34, 0.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,GND3  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (8.50, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2876,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (18.79, 9.77) 
+WARNING(ORCAP-1829): Possible pin type conflict C2873,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (18.54, 9.77) 
+WARNING(ORCAP-1829): Possible pin type conflict C2854,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (3.20, 7.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C2891,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (3.00, 7.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R2867,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (16.49, 7.64) 
+WARNING(ORCAP-1829): Possible pin type conflict R333,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (16.50, 7.84) 
+WARNING(ORCAP-1829): Possible pin type conflict C2846,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (9.30, 4.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C2889,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (9.00, 4.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,GND2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (8.50, 5.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C2855,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (3.40, 7.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C2872,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (14.44, 10.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C2871,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (14.69, 10.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C2885,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (14.94, 10.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C2852,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (3.60, 6.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C2853,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (3.30, 6.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXD4  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (6.00, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXD7  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (6.00, 3.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXD6  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (6.00, 3.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXD5  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (6.00, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict R2862,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (8.88, 10.18) 
+WARNING(ORCAP-1829): Possible pin type conflict R2947,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (4.20, 3.40) 
+WARNING(ORCAP-1829): Possible pin type conflict R2858,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (3.89, 8.75) 
+WARNING(ORCAP-1829): Possible pin type conflict R2857,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (3.89, 8.65) 
+WARNING(ORCAP-1829): Possible pin type conflict C2890,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (4.50, 6.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C2847,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (4.80, 6.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C168,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.34, 5.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IN2  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.49, 5.37) 
+WARNING(ORCAP-1829): Possible pin type conflict R101,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.79, 4.87) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IN1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.49, 5.27) 
+WARNING(ORCAP-1829): Possible pin type conflict R257,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (7.20, 8.50) 
+WARNING(ORCAP-1829): Possible pin type conflict R2929,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (4.00, 7.10) 
+WARNING(ORCAP-1829): Possible pin type conflict LB2118,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (2.30, 5.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C2918,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (2.05, 5.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C2919,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (1.85, 5.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C2920,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (1.60, 5.50) 
+WARNING(ORCAP-1829): Possible pin type conflict R2937,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (1.30, 5.50) 
+WARNING(ORCAP-1829): Possible pin type conflict LB14,2  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (9.38, 4.09) 
+WARNING(ORCAP-1829): Possible pin type conflict R22,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.03, 1.70) 
+WARNING(ORCAP-1829): Possible pin type conflict R25,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (1.99, 4.87) 
+WARNING(ORCAP-1829): Possible pin type conflict R39,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (14.60, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict R19,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (13.50, 7.12) 
+WARNING(ORCAP-1829): Possible pin type conflict R6,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (13.30, 7.12) 
+WARNING(ORCAP-1829): Possible pin type conflict R27,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (8.82, 2.71) 
+WARNING(ORCAP-1829): Possible pin type conflict R29,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (11.09, 2.68) 
+WARNING(ORCAP-1829): Possible pin type conflict R75,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (13.31, 2.69) 
+WARNING(ORCAP-1829): Possible pin type conflict R35,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (9.20, 7.24) 
+WARNING(ORCAP-1829): Possible pin type conflict R55,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (3.78, 8.43) 
+WARNING(ORCAP-1829): Possible pin type conflict R44,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (3.38, 8.41) 
+WARNING(ORCAP-1829): Possible pin type conflict R36,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (3.23, 8.41) 
+WARNING(ORCAP-1829): Possible pin type conflict R45,A  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (3.55, 8.41) 
+WARNING(ORCAP-1829): Possible pin type conflict R1,B  Bidirectional Connected to Power
+                    HI3535DMEB, 10. Power on setting pins  (3.49, 10.51) 
+WARNING(ORCAP-1829): Possible pin type conflict C161,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (9.95, 10.31) 
+WARNING(ORCAP-1829): Possible pin type conflict C162,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (9.70, 10.31) 
+WARNING(ORCAP-1829): Possible pin type conflict R116,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (10.20, 10.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C204,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (8.94, 10.01) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,VCC1  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (11.30, 9.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C159,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (9.19, 10.01) 
+WARNING(ORCAP-1829): Possible pin type conflict C160,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (9.44, 10.01) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,VCC2  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (11.30, 10.00) 
+WARNING(ORCAP-1829): Possible pin type conflict R46,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (10.50, 7.30) 
+WARNING(ORCAP-1829): Possible pin type conflict R48,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (11.00, 7.30) 
+WARNING(ORCAP-1829): Possible pin type conflict R47,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (10.80, 7.30) 
+WARNING(ORCAP-1829): Possible pin type conflict LB11,1  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (0.73, 8.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R49,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (13.60, 7.85) 
+WARNING(ORCAP-1829): Possible pin type conflict R50,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (13.75, 7.85) 
+WARNING(ORCAP-1829): Possible pin type conflict R77,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.10, 8.40) 
+WARNING(ORCAP-1829): Possible pin type conflict Q1,VDD  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.25, 8.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C408,A  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (3.60, 8.45) 
+WARNING(ORCAP-1829): Possible pin type conflict LB10,2  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (8.98, 8.22) 
+WARNING(ORCAP-1829): Possible pin type conflict C48,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.09, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C41,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.09, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C49,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.84, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C19,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.59, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C26,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.34, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C220,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.09, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C47,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.34, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C46,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.59, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C45,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.84, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_8  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 6.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_9  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 6.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_10  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 6.23) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_11  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 6.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_7  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 5.93) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_6  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 5.83) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_5  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 5.73) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_4  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 5.63) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_3  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 5.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 5.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD33_2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 5.43) 
+WARNING(ORCAP-1829): Possible pin type conflict LB8,1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.39, 1.93) 
+WARNING(ORCAP-1829): Possible pin type conflict C2173,A  Bidirectional Connected to Power
+                    HI3535DMEB, UART & Debug  (3.10, 1.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U83,VCC  Power Connected to Bidirectional
+                    HI3535DMEB, UART & Debug  (3.00, 1.10) 
+WARNING(ORCAP-1829): Possible pin type conflict LB16,2  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (15.40, 8.18) 
+WARNING(ORCAP-1829): Possible pin type conflict LB15,2  Bidirectional Connected to Power
+                    HI3535DMEB, 04. ETH0  (20.29, 8.04) 
+WARNING(ORCAP-1829): Possible pin type conflict R24,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (4.05, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict R25,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (4.10, 6.90) 
+WARNING(ORCAP-1829): Possible pin type conflict R42,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (4.33, 3.41) 
+WARNING(ORCAP-1829): Possible pin type conflict R256,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (7.20, 7.10) 
+WARNING(ORCAP-1829): Possible pin type conflict LB2117,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (14.00, 5.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C166,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (14.10, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C85,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (14.40, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C2908,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (14.60, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C251,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (14.90, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R2935,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (12.40, 7.10) 
+WARNING(ORCAP-1829): Possible pin type conflict C139,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (8.60, 7.62) 
+WARNING(ORCAP-1829): Possible pin type conflict R124,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (2.87, 7.16) 
+WARNING(ORCAP-1829): Possible pin type conflict R123,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (2.87, 7.05) 
+WARNING(ORCAP-1829): Possible pin type conflict LB6,1  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (5.31, 9.76) 
+WARNING(ORCAP-1829): Possible pin type conflict LB1,2  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (14.22, 8.51) 
+WARNING(ORCAP-1829): Possible pin type conflict C43,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (9.35, 7.62) 
+WARNING(ORCAP-1829): Possible pin type conflict C10,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (9.10, 7.62) 
+WARNING(ORCAP-1829): Possible pin type conflict C9,A  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (8.85, 7.62) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,DVDDIO_RGMII1_3  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (7.60, 7.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,DVDDIO_RGMII1_2  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (7.60, 7.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,DVDDIO_RGMII1_1  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (7.60, 7.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,DVDDIO_RGMII0_1  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (7.60, 7.52) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,DVDDIO_RGMII0_2  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (7.60, 7.62) 
+WARNING(ORCAP-1829): Possible pin type conflict LB2,1  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (12.91, 2.95) 
+WARNING(ORCAP-1829): Possible pin type conflict LB3,2  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (17.13, 8.47) 
+WARNING(ORCAP-1829): Possible pin type conflict R2887,B  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (4.64, 1.30) 
+WARNING(ORCAP-1829): Possible pin type conflict LB2115,2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (20.49, 9.22) 
+WARNING(ORCAP-1829): Possible pin type conflict LB2114,2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. ETH1  (15.95, 9.49) 
+WARNING(ORCAP-1829): Possible pin type conflict LB12,1  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (1.98, 4.39) 
+WARNING(ORCAP-1829): Possible pin type conflict LB13,1  Bidirectional Connected to Power
+                    HI3535DMEB, 13. Display  (2.28, 5.44) 
+WARNING(ORCAP-1829): Possible pin type conflict C202,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.29, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict C33,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.39, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict C32,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.09, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict C31,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.79, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict C30,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.49, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict C29,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.19, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict C28,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.89, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict C201,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (1.99, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict C36,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.68, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE23  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 4.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE19  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.73) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE17  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE15  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE13  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE11  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.93) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE9  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.73) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 1.93) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE3  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE4  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.23) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE5  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE6  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.43) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE7  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE8  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.63) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE10  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 2.83) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE12  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE14  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.23) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE16  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.43) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE18  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.63) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE20  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.83) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE21  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 3.93) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CORE22  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 4.03) 
+WARNING(ORCAP-1829): Possible pin type conflict C195,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.74, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C16,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.24, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C175,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (1.99, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C176,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.24, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C177,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.49, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C194,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.74, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C15,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (2.99, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C229,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.49, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C230,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.74, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C3,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.99, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C4,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.24, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict C5,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (4.49, 10.08) 
+WARNING(ORCAP-1829): Possible pin type conflict LB9,1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (3.39, 2.68) 
+WARNING(ORCAP-1829): Possible pin type conflict R271,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (9.40, 7.10) 
+WARNING(ORCAP-1829): Possible pin type conflict C157,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.20, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict LB10,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.20, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C73,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.50, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C197,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.80, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C243,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (11.10, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C2924,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (7.80, 3.40) 
+WARNING(ORCAP-1829): Possible pin type conflict R146,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (8.10, 3.40) 
+WARNING(ORCAP-1829): Possible pin type conflict LB4,1  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (8.57, 9.81) 
+WARNING(ORCAP-1829): Possible pin type conflict LB7,2  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (20.81, 8.51) 
+WARNING(ORCAP-1829): Possible pin type conflict LB5,1  Bidirectional Connected to Power
+                    HI3535DMEB, 11. Interface  (1.51, 9.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U7B,CVBS_OUT  Bidirectional Connected to Input Port
+                    HI3535DMEB, 13. Display  (7.08, 2.39) 
+WARNING(ORCAP-1829): Possible pin type conflict R301,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 13. Display  (7.58, 2.24) 
+WARNING(ORCAP-1829): Possible pin type conflict C164,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.38, 2.65) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,IN1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.53, 2.10) 
+WARNING(ORCAP-1829): Possible pin type conflict R98,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.83, 1.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,IN2  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (2.53, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict J2,VBUS  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (8.16, 4.90) 
+WARNING(ORCAP-1829): Possible pin type conflict R96,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.14, 5.46) 
+WARNING(ORCAP-1829): Possible pin type conflict R101,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.19, 4.87) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,OUT1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.49, 5.37) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,OUT2  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.49, 5.27) 
+WARNING(ORCAP-1829): Possible pin type conflict C174,1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.85, 5.52) 
+WARNING(ORCAP-1829): Possible pin type conflict C169,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.40, 5.51) 
+WARNING(ORCAP-1829): Possible pin type conflict R97,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.98, 2.22) 
+WARNING(ORCAP-1829): Possible pin type conflict C165,A  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.23, 2.34) 
+WARNING(ORCAP-1829): Possible pin type conflict C173,1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (4.68, 2.37) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,OUT2  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.53, 2.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,OUT1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.53, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R98,B  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (3.23, 1.70) 
+WARNING(ORCAP-1829): Possible pin type conflict J4,A1  Bidirectional Connected to Power
+                    HI3535DMEB, 12. USB & SATA  (7.97, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict R94,B  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (8.35, 5.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXD3  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (6.00, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AC_OUTR  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (14.71, 2.25) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII1_CRS 
+                    HI3535DMEB, 05. ETH1  (3.10, 4.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AC_MICBIAS  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (14.71, 1.85) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII1_TXER 
+                    HI3535DMEB, 05. ETH1  (4.20, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict R61,B  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (8.87, 6.22) 
+WARNING(ORCAP-1829): Possible pin type conflict R2947,B  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (4.60, 3.40) 
+WARNING(ORCAP-1829): Possible pin type conflict R65,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (4.90, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict C189,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (14.10, 1.75) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXD3  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (5.84, 2.56) 
+WARNING(ORCAP-1829): Possible pin type conflict R87,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (8.40, 3.42) 
+WARNING(ORCAP-1829): Possible pin type conflict R2933,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 04. ETH0  (4.54, 3.66) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO9_2/RGMII0_RXD2  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 2.52) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII0_CRS 
+                    HI3535DMEB, 11. Interface  (9.30, 4.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,CRS  Bidirectional Connected to Output Port
+                    HI3535DMEB, 04. ETH0  (5.84, 4.56) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO8_4/RGMII0_CRS  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 4.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO2_3/RGMII1_RXD3  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 4.62) 
+WARNING(ORCAP-1829): Possible pin type conflict R2827,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (4.70, 4.00) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII1_RXER 
+                    HI3535DMEB, 05. ETH1  (3.40, 4.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO10_6/RGMII1_RXER  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 4.92) 
+WARNING(ORCAP-1829): Possible pin type conflict R2945,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (4.40, 4.50) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII1_COL 
+                    HI3535DMEB, 05. ETH1  (3.10, 4.70) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net MDCK 
+                    HI3535DMEB, 11. Interface  (9.73, 6.82) 
+WARNING(ORCAP-1829): Possible pin type conflict R2930,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (4.77, 1.76) 
+WARNING(ORCAP-1829): Possible pin type conflict R86,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (9.20, 6.82) 
+WARNING(ORCAP-1829): Possible pin type conflict R2845,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 05. ETH1  (5.00, 2.00) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII1_TXD0 
+                    HI3535DMEB, 05. ETH1  (4.40, 2.50) 
+WARNING(ORCAP-1829): Possible pin type conflict R89,B  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (8.44, 5.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXD0  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (6.00, 2.50) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII1_TXCKOUT 
+                    HI3535DMEB, 05. ETH1  (4.10, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R92,B  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (8.43, 6.02) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,GTX_CLK  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (6.00, 2.20) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net I2C_SCL 
+                    HI3535DMEB, 11. Interface  (2.40, 7.37) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO5_7/I2C_SCL  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (3.60, 7.37) 
+WARNING(ORCAP-1829): Possible pin type conflict R123,B  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (3.27, 7.05) 
+WARNING(ORCAP-1829): Possible pin type conflict R2934,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 04. ETH0  (4.54, 3.26) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO8_0/RGMII0_RXCK  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 2.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXCLK  Bidirectional Connected to Output Port
+                    HI3535DMEB, 04. ETH0  (5.84, 2.06) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO8_2/RGMII0_TXCK  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 3.52) 
+WARNING(ORCAP-1829): Possible pin type conflict R2936,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 04. ETH0  (4.54, 3.36) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO8_7/RGMII0_RXDV  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 2.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXD0  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (5.84, 2.26) 
+WARNING(ORCAP-1829): Possible pin type conflict R85,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (8.40, 3.12) 
+WARNING(ORCAP-1829): Possible pin type conflict C134,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (14.10, 1.65) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO10_7/RGMII1_RXDV  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 4.82) 
+WARNING(ORCAP-1829): Possible pin type conflict R2829,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (4.70, 3.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO2_2/RGMII1_RXD2  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 4.52) 
+WARNING(ORCAP-1829): Possible pin type conflict R2832,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (4.70, 3.90) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII1_TXEN 
+                    HI3535DMEB, 05. ETH1  (4.40, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict R91,B  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (8.43, 6.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXEN  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (6.00, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C98,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (14.10, 1.35) 
+WARNING(ORCAP-1829): Possible pin type conflict U7D,AC_OUTL  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (14.71, 2.15) 
+WARNING(ORCAP-1829): Possible pin type conflict R2938,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 04. ETH0  (4.54, 3.46) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO9_0/RGMII0_RXD0  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 2.32) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII0_COL 
+                    HI3535DMEB, 11. Interface  (9.30, 4.02) 
+WARNING(ORCAP-1829): Possible pin type conflict R2927,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 04. ETH0  (4.54, 4.46) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO8_5/RGMII0_COL  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 4.02) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXD1  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (5.84, 2.36) 
+WARNING(ORCAP-1829): Possible pin type conflict R113,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (8.40, 3.22) 
+WARNING(ORCAP-1829): Possible pin type conflict C132,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (14.10, 1.25) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXEN  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (5.84, 2.16) 
+WARNING(ORCAP-1829): Possible pin type conflict R88,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (8.35, 3.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO2_0/RGMII1_RXD0  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 4.32) 
+WARNING(ORCAP-1829): Possible pin type conflict R2830,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (4.70, 3.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO10_2/RGMII1_TXCK  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 5.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXCLK  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (6.00, 2.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO10_0/RGMII1_RXCK  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 4.72) 
+WARNING(ORCAP-1829): Possible pin type conflict R2828,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (4.70, 3.50) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII0_RXER 
+                    HI3535DMEB, 11. Interface  (9.30, 2.92) 
+WARNING(ORCAP-1829): Possible pin type conflict R110,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (4.44, 4.26) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO8_6/RGMII0_RXER  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (7.60, 2.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO2_1/RGMII1_RXD1  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 4.42) 
+WARNING(ORCAP-1829): Possible pin type conflict R2831,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (4.70, 3.80) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII0_TXER/NF_BOOT_PIN4 
+                    HI3535DMEB, 11. Interface  (9.71, 3.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,GTX_CLK  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (5.84, 1.96) 
+WARNING(ORCAP-1829): Possible pin type conflict R93,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (8.35, 3.62) 
+WARNING(ORCAP-1829): Possible pin type conflict U24,TXD2  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (5.84, 2.46) 
+WARNING(ORCAP-1829): Possible pin type conflict R112,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, 11. Interface  (8.40, 3.32) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII1_TXD1 
+                    HI3535DMEB, 05. ETH1  (4.40, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R90,B  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (8.43, 5.42) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXD1  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (6.00, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R60,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 04. ETH0  (4.54, 3.76) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO9_3/RGMII0_RXD3  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 2.62) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net RGMII1_TXD2 
+                    HI3535DMEB, 05. ETH1  (4.40, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict R95,B  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (8.35, 5.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U2050,TXD2  Bidirectional Connected to Output Port
+                    HI3535DMEB, 05. ETH1  (6.00, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict R2940,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 04. ETH0  (4.54, 3.56) 
+WARNING(ORCAP-1829): Possible pin type conflict U7E,GPIO9_1/RGMII0_RXD1  Bidirectional Connected to Output Port
+                    HI3535DMEB, 11. Interface  (7.60, 2.42) 
+ERROR(ORCAP-1628): Possible pin type conflict U10,R/B~  Output Connected to Bidirectional Port
+                    HI3535DMEB, 09. System & flash  (11.30, 8.80) 
+WARNING(ORCAP-1829): Possible pin type conflict R47,B  Bidirectional Connected to Output
+                    HI3535DMEB, 09. System & flash  (10.80, 7.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,NF_RDY0  Bidirectional Connected to Output
+                    HI3535DMEB, 09. System & flash  (7.99, 4.90) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net PWM_SVB0 
+                    HI3535DMEB, Power  (11.90, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,GPIO11_0/PWM_SVB0  Bidirectional Connected to Input Port
+                    HI3535DMEB, 09. System & flash  (7.99, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R18,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, Power  (11.10, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict C1,A  Bidirectional Connected to Output Port
+                    HI3535DMEB, 09. System & flash  (8.11, 1.85) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,RSTN  Bidirectional Connected to Output Port
+                    HI3535DMEB, 09. System & flash  (7.99, 2.30) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net PWM_SVB1 
+                    HI3535DMEB, Power  (11.80, 8.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,GPIO11_1/PWM_SVB1  Bidirectional Connected to Input Port
+                    HI3535DMEB, 09. System & flash  (7.99, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict R17,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, Power  (11.10, 8.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,WDG_RSTN  Bidirectional Connected to Input Port
+                    HI3535DMEB, 09. System & flash  (7.99, 2.40) 
+ERROR(ORCAP-1628): Possible pin type conflict AVDD33_BAT  Bidirectional Port Connected to Power
+                    HI3535DMEB, 09. System & flash  (3.69, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U7G,AVDD_BAT  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.59, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C158,B  Bidirectional Connected to Power
+                    HI3535DMEB, 09. System & flash  (4.11, 4.73) 
+WARNING(ORCAP-1829): Possible pin type conflict C130,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.94, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C124,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.19, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C125,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.44, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C13,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.19, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDQ5  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 8.73) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDQ9  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 9.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDQ8  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 9.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDQ7  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 8.93) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDQ6  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 8.83) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDQ4  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 8.63) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDQ3  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDQ2  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 8.43) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDQ1  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 8.33) 
+WARNING(ORCAP-1829): Possible pin type conflict C119,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.94, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C120,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.19, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C121,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.44, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C122,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.69, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C123,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.94, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict C131,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.69, 8.53) 
+WARNING(ORCAP-1829): Possible pin type conflict R109,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.60, 1.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C128,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.85, 1.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R108,B  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.74, 1.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C127,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.99, 1.18) 
+WARNING(ORCAP-1829): Possible pin type conflict C117,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.04, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C118,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.29, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C14,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (15.54, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C113,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.99, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C112,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.74, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C111,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.49, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD4  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 6.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD5  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 6.43) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD3  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 6.23) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD6  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 6.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD7  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 6.63) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD8  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 6.73) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD9  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 6.83) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD1  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 6.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD2  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (12.44, 6.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C110,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (13.24, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C114,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.24, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C115,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.49, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict C116,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (14.74, 6.48) 
+WARNING(ORCAP-1829): Possible pin type conflict R43,A  Bidirectional Connected to Power
+                    HI3535DMEB, 08. DDR3_B  (8.16, 5.98) 
+WARNING(ORCAP-1829): Possible pin type conflict C97,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.62, 0.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R105,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.37, 0.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R104,B  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.39, 0.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C96,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.64, 0.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C94,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.36, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDDQ5  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 7.94) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDDQ9  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 8.34) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDDQ8  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 8.24) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDDQ7  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 8.14) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDDQ6  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 8.04) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDDQ4  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 7.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDDQ3  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDDQ2  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 7.64) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDDQ1  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 7.54) 
+WARNING(ORCAP-1829): Possible pin type conflict C88,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.86, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C89,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.11, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C90,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.36, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C91,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.61, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C92,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.86, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C93,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.11, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C11,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.06, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C101,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.61, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C100,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.86, 7.74) 
+WARNING(ORCAP-1829): Possible pin type conflict C87,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.21, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C12,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (14.46, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C105,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.91, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C104,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.66, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C103,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.41, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDD4  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDD5  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 5.64) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDD3  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 5.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDD6  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 5.74) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDD7  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 5.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDD8  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 5.94) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDD9  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 6.04) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDD1  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 5.24) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VDD2  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (11.36, 5.34) 
+WARNING(ORCAP-1829): Possible pin type conflict C102,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (12.16, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C106,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.16, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C107,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.41, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C108,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.66, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C109,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (13.96, 5.69) 
+WARNING(ORCAP-1829): Possible pin type conflict R42,A  Bidirectional Connected to Power
+                    HI3535DMEB, 07. DDR3_A  (7.47, 5.19) 
+WARNING(ORCAP-1829): Possible pin type conflict C141,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (8.61, 5.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C223,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.41, 5.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C222,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.16, 5.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C221,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.91, 5.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C183,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.61, 5.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C184,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.36, 5.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C143,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.11, 5.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C142,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (8.86, 5.14) 
+WARNING(ORCAP-1829): Possible pin type conflict C63,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (12.21, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C64,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (12.51, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C62,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (11.91, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C61,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (11.61, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C60,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (11.31, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C59,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (11.06, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C58,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.81, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C57,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.51, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C56,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (10.21, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C55,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.91, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C54,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.66, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C53,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.41, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C52,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (9.11, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C51,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (8.86, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C50,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (8.61, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C65,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (12.81, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict C66,A  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (13.11, 3.29) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR1  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 5.42) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR2  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 5.52) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR3  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 5.62) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR4  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 5.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR5  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 5.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR6  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 5.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR7  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.02) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR8  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR9  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR10  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.32) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR11  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.42) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR12  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.52) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR13  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.62) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR14  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR15  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR16  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 6.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR17  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.02) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR18  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR19  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR20  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.32) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR21  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.42) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR22  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.52) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR23  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.62) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR24  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR25  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR26  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 7.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR27  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 8.02) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR28  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 8.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_DDR29  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 8.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_CK_DDR1  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 8.32) 
+WARNING(ORCAP-1829): Possible pin type conflict U7A,VDDIO_CK_DDR2  Bidirectional Connected to Power
+                    HI3535DMEB, 06. HI3535 DDR3  (6.13, 8.42) 
+WARNING(ORCAP-1829): Possible pin type conflict R272,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (9.40, 8.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C160,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (10.50, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict LB12,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (10.50, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict C78,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (10.80, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C198,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (11.10, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C249,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (11.40, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C2923,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (8.80, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict R240,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (8.80, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU23  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 6.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU16  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.63) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU14  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.43) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU15  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU12  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.23) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU13  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU10  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU11  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU7  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 4.73) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU6  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 4.63) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU8  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 4.83) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU4  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 4.43) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU5  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 4.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU2  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 4.23) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU3  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 4.33) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 4.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU9  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 4.93) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU17  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.73) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU20  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 6.03) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU22  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 6.23) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU21  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 6.13) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU19  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.93) 
+WARNING(ORCAP-1829): Possible pin type conflict U7F,DVDD_CPU18  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (5.54, 5.83) 
+WARNING(ORCAP-1829): Possible pin type conflict C182,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.39, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C8,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.14, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C42,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.89, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C76,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.64, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C75,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (8.39, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C7,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.89, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C6,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.64, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C140,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (6.54, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C137,1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (6.05, 10.15) 
+WARNING(ORCAP-1829): Possible pin type conflict C180,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (6.84, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C181,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (7.14, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C25,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.14, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C24,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.39, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C23,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.64, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C22,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (9.89, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C21,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (10.14, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C138,1  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (6.29, 10.15) 
+WARNING(ORCAP-1829): Possible pin type conflict C206,A  Bidirectional Connected to Power
+                    HI3535DMEB, 05. Power & VSS  (10.39, 10.13) 
+WARNING(ORCAP-1829): Possible pin type conflict C154,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.35, 6.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C195,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.85, 6.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C245,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (11.15, 6.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C68,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.65, 6.40) 
+WARNING(ORCAP-1829): Possible pin type conflict LB9,2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (10.25, 6.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C2925,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (8.00, 7.70) 
+WARNING(ORCAP-1829): Possible pin type conflict R141,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (8.30, 7.70) 
+WARNING(ORCAP-1829): Possible pin type conflict R2926,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (4.54, 4.76) 
+WARNING(ORCAP-1829): Possible pin type conflict C270,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (3.59, 4.97) 
+WARNING(ORCAP-1829): Possible pin type conflict C2883,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 05. ETH1  (3.70, 5.30) 
+WARNING(ORCAP-1829): Possible pin type conflict R2840,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 05. ETH1  (4.70, 5.00) 
+WARNING(ORCAP-1829): Possible pin type conflict R2929,A  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (5.05, 3.06) 
+WARNING(ORCAP-1829): Possible pin type conflict R23,B  Bidirectional Connected to Input Port
+                    HI3535DMEB, 04. ETH0  (4.65, 3.16) 
+WARNING(ORCAP-1829): Possible pin type conflict LB15,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (2.00, 1.60) 
+WARNING(ORCAP-1829): Possible pin type conflict LB14,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (2.05, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C196,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (5.70, 10.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C226,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (6.70, 10.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C223,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (7.00, 10.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R22,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (7.35, 10.20) 
+WARNING(ORCAP-1829): Possible pin type conflict C71,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (6.40, 10.20) 
+WARNING(ORCAP-1829): Possible pin type conflict D1,B  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (6.10, 10.00) 
+WARNING(ORCAP-1829): Possible pin type conflict F1,P2  Bidirectional Connected to Power
+                    HI3535DMEB, Power  (5.35, 9.65) 
+WARNING(ORCAP-1829): Possible pin type conflict LB17,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (2.28, 2.11) 
+WARNING(ORCAP-1829): Possible pin type conflict R273,A  Bidirectional Connected to Power
+                    HI3535DMEB, Power 1  (4.20, 8.00) 
+WARNING(ORCAP-1829): Possible pin type conflict LB2116,1  Bidirectional Connected to Power
+                    HI3535DMEB, Power 2  (4.80, 3.10) 
+WARNING(ORCAP-1608): Net has no driving source N4078728 
+                    HI3535DMEB, 05. ETH1  (2.00, 7.63) 
+WARNING(ORCAP-1608): Net has no driving source N4077404 
+                    HI3535DMEB, 05. ETH1  (11.60, 3.24) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_SEC 
+                    HI3535DMEB, 14. HDMI  (5.00, 2.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_HPD 
+                    HI3535DMEB, 14. HDMI  (12.84, 8.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections HUB_DP3 
+                    HI3535DMEB, 12. USB & SATA  (14.40, 7.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections HUB_DM3 
+                    HI3535DMEB, 12. USB & SATA  (14.40, 7.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N4078728 
+                    HI3535DMEB, 05. ETH1  (2.00, 7.63) 
+WARNING(ORCAP-1600): Net has fewer than two connections N4077404 
+                    HI3535DMEB, 05. ETH1  (11.60, 3.24) 
+
+Checking For Unconnected Bus Nets
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector HDMI_CEC 
+                    HI3535DMEB, 13. Display  (3.78, 3.59) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector TRD3+ 
+                    HI3535DMEB, 05. ETH1  (14.25, 3.47) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector TRD1- 
+                    HI3535DMEB, 05. ETH1  (14.95, 3.67) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector TRD2- 
+                    HI3535DMEB, 05. ETH1  (14.65, 3.67) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector TRD3- 
+                    HI3535DMEB, 05. ETH1  (14.20, 3.20) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector TRD1+ 
+                    HI3535DMEB, 05. ETH1  (18.80, 2.50) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector TRD2+ 
+                    HI3535DMEB, 05. ETH1  (14.75, 3.67) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector TRD0- 
+                    HI3535DMEB, 05. ETH1  (16.65, 3.67) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector TRD0+ 
+                    HI3535DMEB, 05. ETH1  (16.75, 2.20) 

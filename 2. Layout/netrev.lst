@@ -1,0 +1,116 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : NVR_ver1-3.brd                                )
+(    Software Version : 17.0S002                                      )
+(    Date/Time        : Mon Jan 15 17:26:31 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout'
+Design Directory:            '.'
+Old design name:             'E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/NVR_ver1-3.brd'
+New design name:             'E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/NVR_ver1-3.brd'
+
+CmdLine: netrev -$ -i E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout -y 1 -z -q netrev_constraint_report.xml E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/#Taaaael09048.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/pstchip.dat 
+   Finished reading E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/pstchip.dat (00:00:00.05)
+Starting to read E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/pstxprt.dat 
+   Finished reading E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/pstxprt.dat (00:00:00.03)
+Starting to read E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/pstxnet.dat 
+   Finished reading E:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/senior_thesis/2. Layout/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+WARNING(SPMHNI-363): Signal model '74LVC1G125DBVR_SOT5' not found; may effect xnets and electrical constraints.
+
+WARNING(SPMHNI-363): Signal model '74LVC1G125DBVR_SOT5' not found; may effect xnets and electrical constraints.
+
+WARNING(SPMHNI-363): Signal model '74LVC1G125DBVR_SOT5' not found; may effect xnets and electrical constraints.
+
+WARNING(SPMHNI-363): Signal model '74LVC1G125DBVR_SOT5' not found; may effect xnets and electrical constraints.
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SR0402-BGA' used by RefDes R110 for device 'R_1_SR0402_240_(T:SR0402;B:SR04' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SC0402-BGA-A' used by RefDes C360 for device 'C_SC0402_100NF_(T:SC0402;B:SC04' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SC0402-BGA-A' used by RefDes C246 for device 'C0402C104K8PAC_7867' not found in PSMPATH or must be "dbdoctor"ed.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SR0402-BGA' used by RefDes R117 for device 'RC0402FR_071KL' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           F:/Cadence/SPB_17.0/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           F:/Cadence/SPB_17.0/share/local/pcb/symbols 
+           F:/Cadence/SPB_17.0/share/pcb/pcb_lib/symbols 
+           F:/Cadence/SPB_17.0/share/pcb/allegrolib/symbols 
+           F:/Cadence/Data/Library/Footprint/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           F:/Cadence/SPB_17.0/share/local/pcb/padstacks 
+           F:/Cadence/SPB_17.0/share/pcb/pcb_lib/symbols 
+           F:/Cadence/SPB_17.0/share/pcb/allegrolib/symbols 
+           F:/Cadence/Data/Library/Footprint/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jan 15 17:26:31 2018
+   DESIGN NAME : 'HI3535DMEB_VER_A_SCH'
+   PACKAGING ON Feb  9 2015 06:09:36
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+  4 warnings detected
+
+cpu time      0:01:30
+elapsed time  0:00:00
+

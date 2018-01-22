@@ -1,0 +1,73 @@
+CHECK PIN NAME OF FOOTPRINT
+1. Place -> Manually -> Advanced Settings tab (in Placement box) -> Check on library
+2. Back to Placement List tab -> Selection filters -> Package symbols.
+3. Select symbols and click Hide.
+
+[BOARD SETTINGS]
+When creating a new board, we can choose "Board (wizard)" to set the constraint at
+the beginning or we can set them later.
+
+1. Board symbol
+2. Unit
+3. Origin
+4. Grid
+5. Etch layer count
+6. Minimu line width
+7. Default via padstack: via26
+8. Board outline
+9. Route keepin: 100
+10. Package keepin: 250
+
+INFINITE CURSOR
+1. Setup -> User Preferences -> Categories: Display -> Cursor: check infinite_cursor
+2. OK
+
+REPORT
+Tools -> Report...
+
+SHAPE FILL SETTING
+* Shape -> Global Dynamic Params. Some tabs:
+	- Shape fill: Line width, Spacing, Border width.
+	- Void controls: check artwork format: Gerber RS274X
+	- Clearances
+	- Thermal relief connects:Orthogonal, Full contact,
+	
+* Shape -> Rectangular. Check options:
+	- Active class or subclass.
+	- Dynamic Copper.
+	- Assign net: dummy or net.
+	
+ADD DRILL HOLE
+1. Place -> Manually -> Advanced Settings tab -> Check library box.
+2. Back to Placement List tab -> Mechanical Symbols -> Select MTG125 or MTG250
+
+SHOW DRILL HOLE
+1. Setup -> Parameters or Prmed button.
+2. In Display tab, check Display plated holes & Display non-plated holes -> OK.
+3. Display -> Color/Visibility -> Display. Change Drill holes to black -> OK.
+
+CREATE FILM WITH HOLES
+1. Turn off all layers
+	- Display -> Color/Visibility -> Click OFF: Global Visibility
+	- Apply.
+2. Change background and drill holes color:
+	- In Color Dialog - folder Display, change Background & Drill holes to White
+	- Apply.
+3. Change desired layers to black and turn them on
+	- Board Geometry -> Outline
+	- Conductor -> Top/Bottom -> Pin/Via/Etch
+4. Print film:
+	- File > Plot Setup > Scaling factor: 1 & Default line weight: 10 -> OK.
+	- File > Plot Preview > Print.
+5. Set up layer back to normal.
+
+PLACE SYMBOLS MANUALLY FROM SCHEMATIC
+1. Open Layout and Schematic files at the same time.
+2. In Allegro, open Place Manually box.
+3. In Orcad, click a component, then corresponding symbol in Allegro will be selected
+
+ROTATE A GROUP OF SYMBOYS
+1. Move tool
+2. Choose Point: User pick
+3. Pick a group of symbols
+4. R-click -> Rotate

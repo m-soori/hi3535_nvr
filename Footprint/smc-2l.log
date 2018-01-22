@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMC-2L.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Nov 24 07:28:39 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/Cadence/SPB_Data/Library/Footprint
+    Name      = smc-2l.psm
+    User      = Khanh
+    Machine   = DESKTOP-DU00OF9
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

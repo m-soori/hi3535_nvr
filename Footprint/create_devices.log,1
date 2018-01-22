@@ -1,0 +1,51 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : Hi3535DMEB_VER_A_PCB.brd                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Oct 28 04:05:33 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sr0603.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sr0402.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/pbga563-32-2828.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sdsw8-l.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/finished_hole-100.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/rusb9-180-0726a.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/usb4-1507.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sip-3p.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/srn8-0804.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sip-1p.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/stc7343.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/id-board.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sop8-50-150.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sl0603.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sop16-50-300a.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sd0805-led.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/wbc0109-20ra.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sop48-20-720a.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/bga96-32-1609g.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/hsc0402.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sc1206.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sx2-1205.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/to-tr.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/dfn2510p10e_az1045.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sc0805.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/xtal2-100.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sl0402.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/hsod323a.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sot23-6l.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sata7-m.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sc0402.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sl0805b.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sc0603.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/db15-3rf-a.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/stc3528.txt': written successfully.
+Device file 'G:/Cadence/SPB_Data/Library/Footprint/sot23.txt': written successfully.
+
+  Created device files: 36
+

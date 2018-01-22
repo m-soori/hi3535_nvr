@@ -1,0 +1,259 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Oct 28 04:05:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/Hi3535DMEB_VER_A_PCB.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  PAD180CIR130D being dumped.
+
+  PAD40_50OB30D being dumped.
+
+  PAD55_80OB32D being dumped.
+
+  PAD24CIR24U-F being dumped.
+
+  VIA8-BGA-FULL being dumped.
+
+  ID-COMP being dumped.
+
+  RE28_90X20D-PA being dumped.
+
+  OB60_90X36_68D being dumped.
+
+  SMD20S26PSH_L being dumped.
+
+  SMD11_21 being dumped.
+
+  SMD30_32 being dumped.
+
+  SMD40_50 being dumped.
+
+  SMD20S26PSH_R being dumped.
+
+  SMD44_20 being dumped.
+
+  SMD10_65 being dumped.
+
+  SMD25_50 being dumped.
+
+  VIA8-BGA being dumped.
+
+  SMD25_70 being dumped.
+
+  SMD28_32 being dumped.
+
+  SMD50_55 being dumped.
+
+  SMD37_50 being dumped.
+
+  SMD39_50 being dumped.
+
+  SMD51_65 being dumped.
+
+  SMD19_20PSH_L being dumped.
+
+  SMD25_78 being dumped.
+
+  SMD19_20PSH_R being dumped.
+
+  SMD68_90 being dumped.
+
+  ID-BOARD being dumped.
+
+  SMD10_106 being dumped.
+
+  SMD45_140 being dumped.
+
+  SMD100_95 being dumped.
+
+  SMD190_60 being dumped.
+
+  VIA10-GEN being dumped.
+
+  OB60_130X36_105D being dumped.
+
+  SMD9_32OB being dumped.
+
+  OB47_71X31_55D-P being dumped.
+
+  OB47_99X31_83D-P being dumped.
+
+  PAD45SQ30D being dumped.
+
+  PAD60SQ45D being dumped.
+
+  PAD55SQ36D being dumped.
+
+  SMD10_32OB being dumped.
+
+  SMD14_32OB being dumped.
+
+  PAD45CIR30D being dumped.
+
+  PAD54CIR40D being dumped.
+
+  PAD60CIR45D being dumped.
+
+  PAD90CIR55D being dumped.
+
+  PAD55CIR36D being dumped.
+
+  PAD65CIR36D being dumped.
+
+  PAD50_60B40D being dumped.
+
+  PAD120CIR90D being dumped.
+
+  VIA8-BGA-FULL-NEW being dumped.
+
+  BALL14 being dumped.
+
+  PAD42CIR26PD being dumped.
+
+  SHAPE20_20-Y being dumped.
+
+  SHAPE20_20-Z being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  sh20q_lno_t being dumped.
+
+  sh20q_rno_t being dumped.
+
+  sh19_20lno_t being dumped.
+
+  sh19_20rno_t being dumped.
+
+  shape20x20-y being dumped.
+
+  shape20x20-z being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  sip-1p being dumped.
+
+  sip-3p being dumped.
+
+  hsc0402 being dumped.
+
+  sl0805b being dumped.
+
+  pbga563-32-2828 being dumped.
+
+  stc7343 being dumped.
+
+  stc3528 being dumped.
+
+  sx2-1205 being dumped.
+
+  sata7-m being dumped.
+
+  rusb9-180-0726a being dumped.
+
+  sdsw8-l being dumped.
+
+  hsod323a being dumped.
+
+  sot23-6l being dumped.
+
+  usb4-1507 being dumped.
+
+  id-board being dumped.
+
+  srn8-0804 being dumped.
+
+  xtal2-100 being dumped.
+
+  db15-3rf-a being dumped.
+
+  sd0805-led being dumped.
+
+  sop8-50-150 being dumped.
+
+  wbc0109-20ra being dumped.
+
+  dfn2510p10e_az1045 being dumped.
+
+  sop16-50-300a being dumped.
+
+  sot23 being dumped.
+
+  sc0402 being dumped.
+
+  sc1206 being dumped.
+
+  sc0603 being dumped.
+
+  sop48-20-720a being dumped.
+
+  sc0805 being dumped.
+
+  sl0402 being dumped.
+
+  sl0603 being dumped.
+
+  sr0402 being dumped.
+
+  finished_hole-100 being dumped.
+
+  sr0603 being dumped.
+
+  stamp-1x5-80 being dumped.
+
+  to-tr being dumped.
+
+  bga96-32-1609g being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  ash-bin being dumped.
+
+  bar50_10 being dumped.
+
+
+  *** Creating format symbols (.dra and .bsm) ***
+
+  notes2 being dumped.
+
+  esd-1515 being dumped.
+
+  layer4a being dumped.
+
+  a3 being dumped.
+
+  notesv2 being dumped.
+
+  d-code being dumped.
+
+  pb-0707 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               55
+Number of package symbols dumped:         37
+Number of mechanical symbols dumped:       2
+Number of format symbols dumped:           7
+Number of shape symbols dumped:            6
+
+Total number of symbols dumped:           52
+*****************************************************
+

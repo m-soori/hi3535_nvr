@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.0.0 d001Jan-16-2018 at 17:02:41 }
+{ Using PSTWRITER 17.0.0 d001Jan-11-2018 at 16:36:54 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='HI3535DMEB_VER_A_SCH';
@@ -1054,6 +1054,46 @@ SECTION_NUMBER 1
  '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS10230@HW_CAPCITOR.C.NORMAL(CHIPS)':
  C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins10230@hw_capcitor.\c.normal\(chips)',
  P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins10230@hw_capcitor.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C193 'CV05X5R105K10AH':;
+
+SECTION_NUMBER 1
+ '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS7329@HW_CAPCITOR.C.NORMAL(CHIPS)':
+ C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins7329@hw_capcitor.\c.normal\(chips)',
+ P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins7329@hw_capcitor.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C194 'CV05X5R105K10AH':;
+
+SECTION_NUMBER 1
+ '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS7339@HW_CAPCITOR.C.NORMAL(CHIPS)':
+ C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins7339@hw_capcitor.\c.normal\(chips)',
+ P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins7339@hw_capcitor.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C195 'CV05X5R105K10AH':;
+
+SECTION_NUMBER 1
+ '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS7259@HW_CAPCITOR.C.NORMAL(CHIPS)':
+ C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins7259@hw_capcitor.\c.normal\(chips)',
+ P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins7259@hw_capcitor.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C196 'CV05X5R105K10AH':;
+
+SECTION_NUMBER 1
+ '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS6639@HW_CAPCITOR.C.NORMAL(CHIPS)':
+ C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins6639@hw_capcitor.\c.normal\(chips)',
+ P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins6639@hw_capcitor.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -2892,86 +2932,6 @@ SECTION_NUMBER 1
  '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4077842@HW_CAPCITOR.C.NORMAL(CHIPS)':
  C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4077842@hw_capcitor.\c.normal\(chips)',
  P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins4077842@hw_capcitor.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C360 'C_SC0402_100NF_(T:SC0402;B:SC04':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468115@HW_CAPCITOR.C.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468115@hw_capcitor.\c.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468115@hw_capcitor.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C361 'C_SC0402_100NF_(T:SC0402;B:SC04':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468143@HW_CAPCITOR.C.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468143@hw_capcitor.\c.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468143@hw_capcitor.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C362 'C_SC0603_10NF':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468157@HW_CAPCITOR.C.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468157@hw_capcitor.\c.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468157@hw_capcitor.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C363 'C_SC0402_100NF_(T:SC0402;B:SC04':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468493@HW_CAPCITOR.C.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468493@hw_capcitor.\c.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468493@hw_capcitor.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C364 'C_SC0402_100NF_(T:SC0402;B:SC04':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468507@HW_CAPCITOR.C.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468507@hw_capcitor.\c.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468507@hw_capcitor.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C365 'C_SC0402_100NF_(T:SC0402;B:SC04':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468571@HW_CAPCITOR.C.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468571@hw_capcitor.\c.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468571@hw_capcitor.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C366 'C_SC0402_100NF_(T:SC0402;B:SC04':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468599@HW_CAPCITOR.C.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468599@hw_capcitor.\c.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468599@hw_capcitor.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C367 'C_SC0603_10NF':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468613@HW_CAPCITOR.C.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468613@hw_capcitor.\c.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468613@hw_capcitor.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -4998,6 +4958,16 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R134 'RC0402JR_070R':;
+
+SECTION_NUMBER 1
+ '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS9980@HI3535DMEB_VER_A_SCH.R_1.NORMAL(CHIPS)':
+ C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins9980@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
+ P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins9980@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R135 'RESISTOR_4_R0402_10K':;
 
 SECTION_NUMBER 1
@@ -5344,6 +5314,26 @@ SECTION_NUMBER 1
  '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS8956@HI3535DMEB_VER_A_SCH.R_1.NORMAL(CHIPS)':
  C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins8956@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
  P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins8956@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R167 'RK73B1ELTP333J':;
+
+SECTION_NUMBER 1
+ '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS7349@HI3535DMEB_VER_A_SCH.R_1.NORMAL(CHIPS)':
+ C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins7349@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
+ P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins7349@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R168 'RK73B1ELTP333J':;
+
+SECTION_NUMBER 1
+ '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS7249@HI3535DMEB_VER_A_SCH.R_1.NORMAL(CHIPS)':
+ C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins7249@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
+ P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins7249@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -6428,112 +6418,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R271 'R_SR0603_1K':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468129@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468129@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468129@hw_resistor.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R272 'R_SR0603_1K':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468585@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468585@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468585@hw_resistor.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R273 'R_SR0603_1K':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468431@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468431@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468431@hw_resistor.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R274 'R_SR0603_0':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468287@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468287@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468287@hw_resistor.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R275 'R_SR0603_0/NC':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468417@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468417@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468417@hw_resistor.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R276 'R_SR0603_0/NC':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468027@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468027@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468027@hw_resistor.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R277 'R_SR0603_0/NC':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4467993@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4467993@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4467993@hw_resistor.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R278 'R_SR0603_4.7K':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4467883@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4467883@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4467883@hw_resistor.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R279 'R_SR0603_4.7K':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468007@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468007@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468007@hw_resistor.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  R28 'R_1_SR0402_0':;
 
 SECTION_NUMBER 1
  '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4069050@HI3535DMEB_VER_A_SCH.R_1.NORMAL(CHIPS)':
  C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4069050@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
  P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page_ins4069050@hi3535dmeb_ver_a_sch.\r_1.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R280 'R_SR0603_1K/NC':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468473@HW_RESISTOR.R.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468473@hw_resistor.\r.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468473@hw_resistor.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -7428,16 +7318,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- S2 'TL3301AF160RG':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468257@HW_SWITCH.MSW4.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468257@hw_switch.\msw4.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468257@hw_switch.\msw4.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  SIM1 'SIM_RIDER_2_MICRO_SIM_CR-201-6P':;
 
 SECTION_NUMBER 1
@@ -7654,40 +7534,6 @@ SECTION_NUMBER 1
  '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS3999617@889V1.DS8008_4.NORMAL(CHIPS)':
  C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins3999617@\889v1\.\ds8008_4.normal\(chips)',
  P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page23_ins3999617@\889v1\.\ds8008_4.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U24 'ADM706RAR':;
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468175@HINVRPERB-0906.ADM706SAR_0.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468175@\hinvrperb-0906\.\adm706sar_0.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468175@\hinvrperb-0906\.\adm706sar_0.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U25 'SN74LVC1G125DBVR':
- SIGNAL_MODEL='74LVC1G125DBVR_SOT5';
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4468385@HINVRPERB-0906.SN74LVC1G125Q-Q1_0.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4468385@\hinvrperb-0906\.\sn74lvc1g125q-q1_0.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4468385@\hinvrperb-0906\.\sn74lvc1g125q-q1_0.normal\(chips)',
- SIGNAL_MODEL='74LVC1G125DBVR_SOT5',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U26 'SN74LVC1G125DBVR':
- SIGNAL_MODEL='74LVC1G125DBVR_SOT5';
-
-SECTION_NUMBER 1
- '@HI3535DMEB_VER_A_SCH.HI3535DMEB(SCH_1):INS4467909@HINVRPERB-0906.SN74LVC1G125Q-Q1_0.NORMAL(CHIPS)':
- C_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):ins4467909@\hinvrperb-0906\.\sn74lvc1g125q-q1_0.normal\(chips)',
- P_PATH='@hi3535dmeb_ver_a_sch.hi3535dmeb(sch_1):page22_ins4467909@\hinvrperb-0906\.\sn74lvc1g125q-q1_0.normal\(chips)',
- SIGNAL_MODEL='74LVC1G125DBVR_SOT5',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

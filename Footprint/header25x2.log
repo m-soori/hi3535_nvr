@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : header25x2.dra                                )
+(    Software Version : 17.0S002                                      )
+(    Date/Time        : Fri Dec 08 22:10:43 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/Cadence/Data/Library/Footprint
+    Name      = header25x2.psm
+    User      = Khanh
+    Machine   = DESKTOP-DU00OF9
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

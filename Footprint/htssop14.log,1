@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : htssop14.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Nov 21 05:45:45 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/Cadence/SPB_Data/Library/Footprint
+    Name      = htssop14.psm
+    User      = Khanh
+    Machine   = DESKTOP-DU00OF9
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

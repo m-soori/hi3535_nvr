@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DO-214AB.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Dec 03 17:18:50 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/Cadence/SPB_Data/Library/Footprint
+    Name      = do-214ab.psm
+    User      = Khanh
+    Machine   = DESKTOP-DU00OF9
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+
