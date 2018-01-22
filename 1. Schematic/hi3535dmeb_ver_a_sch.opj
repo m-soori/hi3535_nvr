@@ -129,7 +129,9 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\hi3535dmeb_ver_a_sch.dsn")
       (Path "Design Resources" ".\hi3535dmeb_ver_a_sch.dsn" "HI3535DMEB")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\hi3535dmeb_ver_a_sch.dsn" "HI3535DMEB"
+         "11. Interface"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -139,112 +141,32 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1238 52 303")
-        (Scroll "0 4")
-        (Zoom "80")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1260 78 325")
+        (Scroll "-160 0")
+        (Zoom "37")
         (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
+      (Path "E:\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
-      (Page "Power"))
+      (Page "04. ETH0"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1264 78 329")
-        (Scroll "308 26")
-        (Zoom "152")
-        (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
-      (Schematic "HI3535DMEB")
-      (Page "Wireless"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1186 0 251")
-        (Scroll "495 479")
-        (Zoom "80")
-        (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
-      (Schematic "HI3535DMEB")
-      (Page "11. Interface"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1290 104 355")
-        (Scroll "-57 0")
-        (Zoom "64")
-        (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
-      (Schematic "HI3535DMEB")
-      (Page "07. DDR3_A"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1186 0 251")
-        (Scroll "684 0")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1290 156 480")
+        (Scroll "254 126")
         (Zoom "100")
         (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
+      (Path "E:\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
       (Page "05. ETH1"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1186 0 251")
-        (Scroll "0 183")
-        (Zoom "108")
-        (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
-      (Schematic "HI3535DMEB")
-      (Page "13. Display"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1264 78 329")
-        (Scroll "-109 70")
-        (Zoom "50")
-        (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
-      (Schematic "HI3535DMEB")
-      (Page "10. Power on setting pins"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1290 104 355")
-        (Scroll "0 195")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1160 26 350")
+        (Scroll "94 151")
         (Zoom "100")
         (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
+      (Path "E:\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
-      (Page "15. VO"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1186 0 251")
-        (Scroll "-89 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
-      (Schematic "HI3535DMEB")
-      (Page "UART & Debug"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1238 104 461")
-        (Scroll "-175 0")
-        (Zoom "40")
-        (Occurrence "/"))
-      (Path
-         "E:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\SENIOR_THESIS\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
-      (Schematic "HI3535DMEB")
-      (Page "09. System & flash")))
-  (MPSSessionName "Khanh")
+      (Page "11. Interface")))
+  (MPSSessionName "Hp")
   (ISPCBBASICLICENSE "false"))
